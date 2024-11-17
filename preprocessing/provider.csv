@@ -1,15 +1,19 @@
-Provider,file_name,Ending
-BGC,BGC,Disclosures Appendix
-Needham,Needham,Analyst Certification
-BTIG,BTIG,Appendix: Analyst Certification and Other Important Disclosures
-Wells Fargo,Wells Fargo,Required Disclosures
-Barclays,Barclays,ANALYST(S) CERTIFICATION(S)
-J.P. Morgan,JP_Morgan,Analyst Certification
-Brean Capital LLC,Brean_Capital,Analyst Certification
-Hilliard Lyons,Hilliard_Lyons,Analyst Certification
-Euro Pacific Capital,Alliance_Global_Partners,Imporant Research Disclosures
-Mizuho Securities,Mizuho_Securities,IMPORTANT DISCLOSURES
-Gilford Securities,Gilford_Securities,ANALYST CERTIFICATION
-Deutsche Bank,Deutsche_Bank,Appendix 1
-Pivotal Research Group,Pivotal_Research_Group,Appendix: Important Disclosures
-Spartan Capital Securities LLC,Spartan_Capital_Securities_LLC,Important Disclosures
+Provider,file_name,Ending,Price Target,Recommendation
+BGC Partners,BGC,Disclosures Appendix,Price Target ($) {price},"{RATING} ({TICKER},$"
+Needham,Needham,Analyst Certification,Price Target ${price},Stock Rating {RATING}
+BTIG,BTIG,Appendix: Analyst Certification and Other Important Disclosures,12 month target ${price},{RATING} 52 week range
+Wells Fargo,Wells_Fargo,Required Disclosures,Overweight/${price},{Rating}/$
+Barclays,Barclays,ANALYST(S) CERTIFICATION(S),Price Target USD {price},Stock Rating {RATING}
+JP Morgan,JP_Morgan,Analyst Certification,Price Target ({Letters & numbers}): ${price},{Rating} {TICKER}
+Brean Capital LLC,Brean_Capital,Analyst Certification,PT: $  {price},{Rating} PT:$  
+Hilliard Lyons,Hilliard_Lyons,Analyst Certification,Price Target {price},NSYE -- {Rating} --
+Alliance Global Partners,Alliance_Global_Partners,Imporant Research Disclosures,Price Target ${price},{Rating} (Ticker:
+Mizuho Securities,Mizuho_Securities,IMPORTANT DISCLOSURES,Price Target ${price},Rating Buy
+Gilford Securities,Gilford_Securities_Inc,ANALYST CERTIFICATION,- ,BUY OR Rated: 
+Deutsche Bank,Deutsche_Bank,Appendix 1,Price Target (USD) {price},Rating {Rating}
+Pivotal Research Group,Pivotal_Research_Group,Appendix: Important Disclosures,Target Price: ${price},RATING: {RATING}
+Spartan Capital Securities LLC,Spartan_Capital_Securities_LLC,Important Disclosures,T ${price},{Rating}
+Cascend Securities -Historical-,Cascend_Securities_-Historical-,Disclosures:,Price target: ${price},Rating: {RATING}
+Phillip Securities,Phillip_Securities,Important Information,TARGET PRICE USD,{RATING} ({UPPERCASELETTERS})
+FinTrust Investment Advisors,FinTrust_Investment_Advisors,Important Disclosures:,Target Price: ${price},Fintrust Rating: {RATING}
+IBM Investment House,IBM_Investment_House,Disclosures,Price target: ${price},Recommendation: {Rating}
