@@ -1,0 +1,851 @@
+,ID,Argument,Sentiment
+0,1,Solid 1QF20,positive
+1,1,Long-term Growth,positive
+2,1,Channel Development,positive
+3,1,Positive Traffic,positive
+4,1,Buying Opportunity,positive
+5,1,Growth at Scale,positive
+6,1,Material Disruption,negative
+7,1,Traffic Pressure,negative
+8,1,Business Disruption,negative
+9,1,Financial Impact,negative
+10,1,Uncertainty,neutral
+11,1,Caution,neutral
+12,1,EPS Guidance,neutral
+13,1,1QF20 Strength,positive
+14,1,Virus Impact,negative
+15,1,Conflict of Interest,negative
+16,1,Objectivity Warning,neutral
+17,1,Global Fundamentals,positive
+18,1,Comp Unit Growth,positive
+19,1,Cost Management,positive
+20,1,Return of Excess Cash,positive
+21,1,Transition to Maturity,positive
+22,1,Fundamental Reacceleration,positive
+23,1,Margin Expansion,positive
+24,1,Comp Acceleration,positive
+25,1,ROI Growth,positive
+26,1,Margin Contraction,negative
+27,1,Cash Flow,positive
+28,1,Debt Increase,negative
+29,1,Asset Growth,positive
+30,1,Working Capital,negative
+31,1,Capital Expenditure,neutral
+32,1,Financial Metrics,neutral
+33,1,Guidance,positive
+34,1,Virus Impact,negative
+35,1,Quarterly Strength,positive
+36,1,Revenue Growth,positive
+37,1,Unit Growth,positive
+38,1,Global Presence,positive
+39,1,Operating Margin,positive
+40,1,Growth Guidance,positive
+41,1,GA Leverage,positive
+42,1,Earnings Beat,positive
+43,1,Same Store Sales,neutral
+44,1,Operating Margin,positive
+45,1,Market Position,positive
+46,1,Revenue Growth,positive
+47,1,Global Comp Growth,positive
+48,1,Global Unit Growth,positive
+49,1,Coronavirus Impact,negative
+50,1,Underlying Growth,positive
+51,1,Global Fundamentals,positive
+52,1,Lack of Visibility,negative
+53,1,Growth Prospects,positive
+54,1,Guidance Temperance,neutral
+55,1,Market Perception,negative
+56,1,Lack of Comparables,neutral
+57,1,Growth Profile,positive
+58,1,Management Belief,positive
+59,1,Sustainable Initiatives,positive
+60,1,Valuation Concerns,negative
+61,1,Fundamental Momentum,positive
+62,1,Visibility,positive
+63,1,Profit Growth,positive
+64,1,Global Exposure,negative
+65,1,Store Closures,negative
+66,1,Guidance Update,neutral
+67,1,Temporary Impact,positive
+68,1,Business Performance,positive
+69,1,Beverage Sales,positive
+70,1,Traffic Growth,positive
+71,1,Average Check Growth,positive
+72,1,Beverage Sales,positive
+73,1,Growth Momentum,positive
+74,1,Revenue Growth,positive
+75,1,Currency Headwind,negative
+76,1,Unit Growth,positive
+77,1,Transaction Growth,positive
+78,1,Mobile Order Pay,positive
+79,1,Delivery Expansion,positive
+80,1,Loyalty Program,positive
+81,1,Health and Safety,positive
+82,1,Supporting Local Officials,positive
+83,1,Restaurant Closures,negative
+84,1,Growth Potential,positive
+85,1,Foot Traffic,negative
+86,1,Weaker Demand,negative
+87,1,Natural Disaster,negative
+88,1,Tax,negative
+89,1,LTO lineup,negative
+90,1,Japan trends,positive
+91,1,International comp,neutral
+92,1,Channel Development,positive
+93,1,Nestle Partnership,positive
+94,1,Market Expansion,positive
+95,1,Revenue Guidance,negative
+96,1,Market Expansion,positive
+97,1,New Product,positive
+98,1,Channel Business,positive
+99,1,Comp Sales,positive
+100,1,Market Share,positive
+101,1,Growth Driver,positive
+102,1,International Comparison,neutral
+103,1,Mobile Order,positive
+104,1,Reward Members,positive
+105,1,Sustainability Efforts,positive
+106,1,Environmental Efforts,positive
+107,1,Milestone Celebration,neutral
+108,1,Earnings Beat,positive
+109,1,Revenue Growth,positive
+110,1,System Comp Traffic,positive
+111,1,Average Check,positive
+112,1,Unit Growth,positive
+113,1,Global Comps,positive
+114,1,Operating Margins,positive
+115,1,Cost of Sales,positive
+116,1,Store Operating Expenses,negative
+117,1,Interest Expense,positive
+118,2,In Line Expectations,positive
+119,2,Growing Installed Base,positive
+120,2,Increasing Customer Engagement,positive
+121,2,Services Growth,positive
+122,2,Supply Chain Management,positive
+123,2,Earnings Outlook,positive
+124,2,Currency Headwind,negative
+125,2,Customer Satisfaction,positive
+126,2,Brand Loyalty,positive
+127,2,Record Sales,positive
+128,2,Growing Customer Base,positive
+129,2,Increasing Customer Engagement,positive
+130,2,Supply Chain Management,positive
+131,2,FX Headwinds,negative
+132,2,Product Gross Margin,negative
+133,2,Services Gross Margin,positive
+134,2,Supply Constraints,negative
+135,2,FX Headwinds,negative
+136,2,Supply chain constraints,negative
+137,2,FX headwinds,negative
+138,2,Revenue growth,positive
+139,2,Gross margins,positive
+140,2,Operating expenses,neutral
+141,2,Customer Acquisition,positive
+142,2,Product Innovation,positive
+143,2,Market Trends,positive
+144,2,User Base Growth,positive
+145,2,Gross Margins,positive
+146,2,Near-term Headwinds,negative
+147,2,Outperformance,positive
+148,3,Sales Growth,positive
+149,3,Beverage Promotions,positive
+150,3,Value Platform,positive
+151,3,Digital Initiatives,positive
+152,3,Restaurant Modernization,positive
+153,3,Technology Initiatives,positive
+154,3,Comparable Sales,positive
+155,3,Restaurant Margins,positive
+156,3,General Admin,negative
+157,3,Tax Rate,negative
+158,3,Sales Growth,positive
+159,3,Samestore Sales,positive
+160,3,Traffic,positive
+161,3,Pricing,neutral
+162,3,Promotion,positive
+163,3,Value Offering,positive
+164,3,Premium Sandwich,positive
+165,3,Market Strength,positive
+166,3,Market Growth,positive
+167,3,Refranchising Success,positive
+168,3,Commodity Inflation,negative
+169,3,FX Decline,negative
+170,3,Tax Rate,negative
+171,4,EPS Beat,positive
+172,4,Sales Miss,negative
+173,4,Solid Guidance,positive
+174,4,Improving Sales,positive
+175,4,Stable Growth,neutral
+176,4,Track Record,positive
+177,4,Revenue Growth,positive
+178,4,Operational Growth,positive
+179,4,EPS Growth,positive
+180,4,Growth Strategy,positive
+181,4,Acquisition Plans,positive
+182,4,Deal Flexibility,positive
+183,4,Disciplined Approach,neutral
+184,4,Growth Strategy,positive
+185,4,Business Transformation,positive
+186,4,Pipeline Advancement,positive
+187,4,Revenue Growth,positive
+188,4,Leadership Maintenance,positive
+189,4,Growth Aspiration,positive
+190,4,Procedure Volume,negative
+191,4,Diagnostic Volume,positive
+192,4,Procedure Backlog,positive
+193,4,MD Market Growth,positive
+194,4,COVID Recovery,negative
+195,4,Omicron Impact,negative
+196,4,Management Optimism,positive
+197,4,Cost Management,negative
+198,4,Sales Growth,positive
+199,4,Margins,positive
+200,4,Tax Rate,positive
+201,4,Operational Expenses,negative
+202,4,Revenue Growth,neutral
+203,4,Sales Performance,negative
+204,4,Operational Growth,positive
+205,4,Segment Highlights,neutral
+206,4,Consensus Miss,negative
+207,4,Adjusting for Extra Week,neutral
+208,4,Vaccine Sales,positive
+209,4,Year-over-Year Growth,positive
+210,4,Sales Growth,positive
+211,4,FX Headwind,negative
+212,4,Supply Constraints,negative
+213,4,COVID Impact,negative
+214,4,Growth Momentum,positive
+215,4,Market Outperformance,positive
+216,4,Revenue Growth,positive
+217,4,Earnings Contribution,positive
+218,4,Pretax Margin,positive
+219,4,Recurring Revenue,positive
+220,4,Improved Profitability,positive
+221,4,EPS Growth,positive
+222,4,FX Headwind,negative
+223,4,Pretax Margin Expansion,positive
+224,4,Higher Tax Rate,negative
+225,4,Share Repurchase,positive
+226,4,COVID Impact,negative
+227,4,Demand Decline,negative
+228,4,Litigation Uncertainty,negative
+229,4,Pipeline Delays,negative
+230,4,Industry Deterioration,negative
+231,4,Growth Expectation,positive
+232,5,COVID-19 Impact,negative
+233,5,Macro Recovery,positive
+234,5,Core Business,positive
+235,5,Strategic Shift,positive
+236,5,Volume Updates,neutral
+237,5,Lockdowns,negative
+238,5,Stimulus,positive
+239,5,Partnerships,positive
+240,5,Earnings Forecast,positive
+241,5,Lack of Transparency,negative
+242,5,Spending Trends,neutral
+243,5,Balance Sheet,neutral
+244,5,Regulatory Environment,neutral
+245,5,Conflict of Interest,negative
+246,5,Industry View,positive
+247,5,Secular Shift,positive
+248,5,Techenabled Payments,positive
+249,5,Global Growth,positive
+250,5,Market Share,positive
+251,5,Macro Slowdown,negative
+252,5,Loss of Market Share,negative
+253,5,Negative Regulation,negative
+254,5,Leverage Metrics,neutral
+255,5,Dividend Yield,neutral
+256,5,Debt Profile,neutral
+257,5,Volume Growth,positive
+258,5,Transaction Growth,positive
+259,5,Purchase Volume,neutral
+260,5,Earnings Forecast,positive
+261,5,Lack of Clarity,negative
+262,5,Growth Moderation,negative
+263,5,Sequential Improvements,positive
+264,5,Debit Volume Decline,negative
+265,5,Prime Day Impact,neutral
+266,5,Spending Trends,neutral
+267,5,Economic Conditions,negative
+268,5,Global Payments Volume,negative
+269,5,Spending Trends,positive
+270,5,Volume Growth,neutral
+271,5,Crossborder Volume,positive
+272,5,Volume Growth,positive
+273,5,Holiday Spending,positive
+274,5,Travel Rebound,negative
+275,5,Competitive Positioning,neutral
+276,5,Regional Mix,neutral
+277,5,Market Position,positive
+278,5,COVID Impact,negative
+279,5,Travel Trends,positive
+280,5,Ecommerce Growth,positive
+281,5,Travel Rebound,negative
+282,5,Focus on Core,positive
+283,5,New Payment Flows,positive
+284,5,Value Added Services,positive
+285,5,Competition Concerns,negative
+286,5,Partnership Strategy,positive
+287,5,Growth Acceleration,positive
+288,5,Business Focus,positive
+289,5,Revenue Growth,negative
+290,5,Growth Expectation,positive
+291,5,Uncertainty,negative
+292,5,Growth Expectations,positive
+293,5,Pricing Benefits,positive
+294,5,Acquisition Benefits,positive
+295,5,Deal Uncertainty,negative
+296,5,Transaction Volume,negative
+297,5,FX Volatility,positive
+298,5,Service Fee Lag,negative
+299,5,Currency Volatility,positive
+300,5,Incentives,positive
+301,5,Gross Profit,negative
+302,5,Volume Declines,negative
+303,5,Client Performance,negative
+304,5,Volume Renewal,positive
+305,5,Incentives Outlook,positive
+306,5,Historical Trend,negative
+307,5,Expenses,neutral
+308,5,Expense Growth,neutral
+309,5,Olympics Impact,neutral
+310,5,Tax Rate,neutral
+311,5,Capital Expenditure,neutral
+312,5,Return to Shareholders,positive
+313,6,Challenging Q2 Print,negative
+314,6,Consumer Phone Subs,negative
+315,6,Precarious Position,negative
+316,6,Deteriorating Outlook,negative
+317,6,Heavy Promotional Spend,negative
+318,6,Weaker Subscriber Adds,negative
+319,6,Lower Profitability,negative
+320,6,Downside Risk,negative
+321,6,Cautious Optimism,neutral
+322,6,Consumer Churn,negative
+323,6,Fee Increases,negative
+324,6,Value Offerings,positive
+325,6,Business Performance,positive
+326,6,Revenue Guidance,negative
+327,6,Fixed FWA Growth,positive
+328,6,FiOS Performance,negative
+329,6,Subscriber Performance,positive
+330,6,Service Revenues,positive
+331,6,Revenue Pressure,negative
+332,6,Currency Headwinds,negative
+333,6,Legacy Product Decline,negative
+334,6,Uncertainty,negative
+335,6,Pricing Actions,positive
+336,6,Execution Risk,negative
+337,6,Subscriber Growth,positive
+338,6,FCF Outlook,negative
+339,6,Earnings Estimate,neutral
+340,6,Industry Leading,positive
+341,6,Premium Priced,negative
+342,6,Lack of Spectrum,negative
+343,6,Limited Visibility,negative
+344,6,Regulatory Risks,negative
+345,6,Faster Rollout,positive
+346,6,Market Share Gains,positive
+347,6,Margin Expansion,positive
+348,6,Cost Cutting,positive
+349,7,Revenue Growth,negative
+350,7,Operating Income,negative
+351,7,EPS Growth,positive
+352,7,Profit Mix,neutral
+353,7,Value Creation,positive
+354,7,Programming Expenses,negative
+355,7,DVD Success,positive
+356,7,Ratings Performance,negative
+357,7,Ad Revenue,positive
+358,7,Revenue Growth,positive
+359,7,Earnings Growth,positive
+360,7,Pricing Power,positive
+361,7,Cable Network,positive
+362,7,Film Studio,positive
+363,7,Content Library,positive
+364,7,Economic Risks,negative
+365,7,Advertising Market,negative
+366,7,Ratings Decline,negative
+367,7,Cost Pressures,negative
+368,7,Margin Shrinkage,negative
+369,8,Industry View,positive
+370,8,Asset Divestitures,positive
+371,8,FCF Generation,positive
+372,8,Capital Returns,positive
+373,8,Market Opportunity,positive
+374,8,SKU Variety,positive
+375,8,GMV Growth,positive
+376,8,Payment Revenue,positive
+377,8,Catalysts,positive
+378,8,Longterm Value,positive
+379,8,Deceleration in Growth,negative
+380,8,Share Buybacks,positive
+381,8,Free Cash Flow,positive
+382,8,Revenue Decline,negative
+383,8,Advertising Weakness,negative
+384,8,Private Equity Sale,negative
+385,8,Asset Sale,positive
+386,8,M&A Possibility,positive
+387,8,Growth Expectations,positive
+388,8,Growth Trend,neutral
+389,8,Ecommerce Performance,positive
+390,8,Conflict of Interest,negative
+391,8,Replatforming initiatives,positive
+392,8,Structured data pages,positive
+393,8,Traffic exposure,positive
+394,8,Financial improvement,positive
+395,8,Margin Pressure,negative
+396,8,Return On Capital,neutral
+397,8,Return On Equity,neutral
+398,8,Leverage Metrics,neutral
+399,8,Valuation Metrics,neutral
+400,8,FCF Yield,neutral
+401,8,Dividend Yield,neutral
+402,8,Growth Expectations,neutral
+403,8,Seasonal Trends,neutral
+404,8,Marketplace selection,positive
+405,8,Ecommerce resilience,positive
+406,8,Active buyers,neutral
+407,8,Revenue Growth,positive
+408,8,Take Rate,positive
+409,8,Slower Display Ads,negative
+410,8,Sponsored Listings,negative
+411,8,Payments Revenue,positive
+412,8,Margin Expansion,positive
+413,8,Estimation Method,neutral
+414,9,Gaming Demand,positive
+415,9,Supply Constraints,neutral
+416,9,Data Center Growth,negative
+417,9,Valuation Concerns,negative
+418,9,AI Leadership,positive
+419,9,Seasonality Concerns,negative
+420,9,Enterprise Potential,positive
+421,9,Channel Filling,neutral
+422,9,Global Recovery,positive
+423,9,AI Cockpit Sales,positive
+424,9,Revenue Growth,positive
+425,9,Gross Margin,positive
+426,9,Earnings Beat,positive
+427,9,Revenue Growth,positive
+428,9,Gross Margins,positive
+429,9,QQ Declines,negative
+430,9,YY Growth,neutral
+431,9,Higher Opex,negative
+432,9,Extra Week Yield,positive
+433,9,NonGAAP EPS,positive
+434,9,Conflict of Interest,neutral
+435,9,Datacenter Position,positive
+436,9,Edge Opportunities,positive
+437,9,Competitive Moat,positive
+438,9,Upside Case,positive
+439,9,Margin and Return,positive
+440,9,Datacenter Growth,positive
+441,9,Higher ASPs,positive
+442,9,Stronger Gaming Market,positive
+443,9,Faster Auto Ramp,positive
+444,9,Higher GMs,positive
+445,9,Downside Case,negative
+446,9,Lower Datacenter Growth,negative
+447,9,Greater Competition,negative
+448,9,Declines in Gaming Market,negative
+449,9,Slower Auto Ramp,negative
+450,9,Slower GM Improvement,negative
+451,9,Valuation Metrics,neutral
+452,9,Record Revenue,positive
+453,9,Strong Demand,positive
+454,9,Ampere Products,positive
+455,9,China Revenue,positive
+456,9,Proviz Performance,positive
+457,9,Auto Recovery,positive
+458,9,AI Cockpit,positive
+459,9,Revenue Growth,positive
+460,9,Margin Expansion,positive
+461,9,Earnings Beat,positive
+462,9,Revenue Growth,positive
+463,9,Gaming Growth,positive
+464,9,Data Center Decline,negative
+465,9,Computing Growth,positive
+466,9,Better Revenue,positive
+467,9,Higher GMs,positive
+468,9,Higher Opex,negative
+469,9,Revenue Growth,positive
+470,9,EPS Growth,positive
+471,10,COVID Impact,negative
+472,10,COVID Impact,negative
+473,10,Revenue Guidance,negative
+474,10,Operating Margin,negative
+475,10,Sales Slowdown,negative
+476,10,EPS Reduction,neutral
+477,10,COVID Expenses,negative
+478,10,Sales Trends,positive
+479,10,Commerce Cloud,positive
+480,10,Revenue Growth,negative
+481,10,Revenue Growth,positive
+482,10,Earnings In-Line,neutral
+483,10,RPO Growth,positive
+484,10,Revenue Growth,positive
+485,10,Pipeline Strength,positive
+486,10,COVID19 Impact,negative
+487,10,Pandemic Impact,negative
+488,10,Pandemic Uncertainty,negative
+489,11,EV Strategy,neutral
+490,11,Pricing Assumptions,negative
+491,11,Long Term Focus,neutral
+492,11,Near Term Concerns,negative
+493,11,Pension Concerns,negative
+494,11,Mix Concerns,negative
+495,11,Production Increase,positive
+496,11,Raw Material Costs,positive
+497,11,Price Decline,negative
+498,11,Vehicle Mix,negative
+499,11,Pension Income,negative
+500,11,EV Investment Costs,negative
+501,11,FX,negative
+502,11,UAW Contract,negative
+503,11,Electrification Efforts,positive
+504,11,Profitability Concerns,negative
+505,11,EV Profitability,negative
+506,11,Raw Material Costs,negative
+507,11,Pricing Assumptions,neutral
+508,11,Cost Structure,negative
+509,11,Guidance,positive
+510,11,Lack of Guidance,negative
+511,11,SaaS Scaling,neutral
+512,11,Autonomous Technology,neutral
+513,11,Electric Vehicle Development,neutral
+514,11,Connected Car Capabilities,neutral
+515,11,Battery Raw Material Costs,negative
+516,11,Fuel Economy Regulations,negative
+517,11,New Vehicle Pricing,neutral
+518,11,Input Costs,negative
+519,11,Volume Increases,positive
+520,11,UAW Contract Negotiations,negative
+521,11,Global Production,positive
+522,11,Semiconductor Challenges,negative
+523,11,Supply Chain Challenges,negative
+524,12,Online Shopping,positive
+525,12,Early Shopping,positive
+526,12,Consumer Spending,positive
+527,12,Consumer Preference,positive
+528,12,Omnichannel Presence,positive
+529,12,Ecommerce Growth,positive
+530,12,Online Shopping,positive
+531,12,Digital Commerce,positive
+532,12,Consumer Sentiment,positive
+533,12,Online Shopping,positive
+534,12,In-Store Experience,negative
+535,12,E-commerce Growth,positive
+536,12,Market Leadership,positive
+537,12,Early Shopping,positive
+538,12,Early Shopping,positive
+539,12,Early Shopping,negative
+540,12,First Mover Advantage,positive
+541,12,Economic Recovery,positive
+542,12,Covid19 Impact,neutral
+543,12,Pandemic Comparison,neutral
+544,12,Customer Acquisition,positive
+545,12,Consumer Sentiment,positive
+546,13,Growth Potential,positive
+547,13,Growth Potential,positive
+548,13,Long Term Growth,positive
+549,13,Diversification,positive
+550,13,Robotic Efforts,positive
+551,13,Accelerated Monetization,positive
+552,13,Improved Monetization,positive
+553,13,Strong Leadership,positive
+554,13,Talented Employee Base,positive
+555,13,Strong Balance Sheet,positive
+556,13,Unknown Risks,negative
+557,13,Growth Prospects,positive
+558,13,Expense Growth,negative
+559,13,Holiday Season,positive
+560,13,Click Prices,negative
+561,13,Revenue Growth,positive
+562,13,EPS Estimate,positive
+563,13,Revenue Growth,positive
+564,13,Cost Management,positive
+565,13,Cash Flow,positive
+566,13,Debt Level,negative
+567,13,Operations Efficiency,positive
+568,13,Margin Expansion,positive
+569,14,Patent Litigation,negative
+570,14,Sales Outlook,positive
+571,14,Competition Risk,negative
+572,14,Patient Loyalty,positive
+573,14,Competition Threat,negative
+574,14,Patent Protection,positive
+575,14,Market Share,negative
+576,14,Price Discount,negative
+577,14,Litigation Risk,negative
+578,15,Growth Expectations,positive
+579,15,Leadership Team,positive
+580,15,Revenue Growth,positive
+581,15,Post-Pandemic Growth,positive
+582,15,Growth Expectations,positive
+583,15,Strategic Initiatives,positive
+584,15,Portfolio Optimization,positive
+585,15,Growth Strategy,positive
+586,15,Proactive Management,positive
+587,15,Optimize Trade,positive
+588,15,Asset Light,neutral
+589,15,Refranchising Strategy,positive
+590,15,Resource Allocation,positive
+591,15,Diversification,positive
+592,15,Earnings Concerns,negative
+593,15,Short Term Risk,neutral
+594,15,Innovation Efforts,neutral
+595,15,Marketing Campaign,positive
+596,15,Importance of Driving,positive
+597,15,Innovation Projects,positive
+598,15,Gross Profit,positive
+599,15,Project Size,positive
+600,15,Pipeline Value,neutral
+601,15,Acquisition Opportunity,positive
+602,15,Regulatory Compliance,neutral
+603,15,Celebrity Endorsements,neutral
+604,15,New Generation,positive
+605,15,Market Share,negative
+606,15,Market Share,negative
+607,15,Lack of Attention,negative
+608,15,Company Structure,neutral
+609,15,Growth Potential,positive
+610,15,Operational Efficiency,positive
+611,16,Better Results,positive
+612,16,Strong Numbers,positive
+613,16,Disappointment Risk,negative
+614,16,Revenue Growth,positive
+615,16,Profit Growth,positive
+616,16,Revenue Growth,positive
+617,16,Segment Performance,neutral
+618,16,Revenue Growth,positive
+619,16,Revenue Growth,positive
+620,16,Azure Growth,positive
+621,16,Azure Growth,positive
+622,16,Revenue Growth,positive
+623,17,BEV Growth,positive
+624,17,Big Data Strategy,positive
+625,17,Connected Car,positive
+626,17,Customer Experience,positive
+627,17,Preventive Maintenance,positive
+628,17,Higher Margins,positive
+629,17,Long Term Strategy,positive
+630,17,EBIT Margin,positive
+631,17,Upside to Consensus,positive
+632,17,BEV Plan,positive
+633,17,Electrication Spend,positive
+634,17,New Architectures,positive
+635,17,Battery Technology,positive
+636,17,Connected Services,positive
+637,17,Market Growth,positive
+638,17,New Business,positive
+639,17,Sales Growth,positive
+640,17,Customer Service,positive
+641,17,Efficiency Gains,positive
+642,17,Customer Engagement,positive
+643,17,Growing Scale,positive
+644,17,Market Opportunity,positive
+645,17,High Margins,positive
+646,17,Diagnostic Data,positive
+647,17,Warranty Spend,negative
+648,17,OTA Updates,positive
+649,17,Electronics Architecture,positive
+650,17,Computer Power,positive
+651,17,Electric Sales Growth,positive
+652,17,Increased Spending,positive
+653,17,Improved Battery Tech,positive
+654,17,Reduced Platforms,positive
+655,17,Cost Reduction,positive
+656,17,Diversified Chemistries,positive
+657,17,Cost Reductions,positive
+658,17,Scale Advantages,positive
+659,17,Vertical Integration,positive
+660,17,ICE Scale Benefits,positive
+661,17,Component Purchasing,positive
+662,17,Market Growth,positive
+663,17,Increased Sales,positive
+664,17,Growth Opportunities,positive
+665,17,Unique Opportunities,positive
+666,17,Leadership,positive
+667,17,Business Expansion,positive
+668,17,Global Production,positive
+669,17,Semiconductor Shortage,negative
+670,17,Commodity Prices,negative
+671,17,Supply Chain Risks,negative
+672,17,Warranty Costs,negative
+673,17,Production Disruptions,negative
+674,17,Turnaround Plan,positive
+675,17,Launch Lineup,positive
+676,17,Future Mobility,positive
+677,17,Autonomous Leadership,positive
+678,17,EV Commitment,positive
+679,17,Connected Features,positive
+680,18,Customer Engagement,positive
+681,18,Innovation,positive
+682,18,Risks,negative
+683,18,Spending,neutral
+684,18,Innovation Economy,positive
+685,18,Discretionary Spend,negative
+686,18,Tech Spend Management,neutral
+687,18,Digital Strategy,positive
+688,18,Tech Spending,positive
+689,18,Modernization Efforts,positive
+690,18,Leadership,positive
+691,18,Operating Leverage,negative
+692,18,Tech Investments,negative
+693,18,Operating Risk,negative
+694,18,Execution Risk,negative
+695,18,Technical Debt,negative
+696,18,Complexity,negative
+697,18,Franchise Breadth,negative
+698,18,Digital Transformation,positive
+699,18,Risk,negative
+700,18,Core Banking Systems,neutral
+701,18,Customer Experiences,positive
+702,18,Digital Transformation,positive
+703,18,Market Share,positive
+704,18,Operational Efficiency,positive
+705,18,Operating Leverage,positive
+706,18,Relative Stock Performance,positive
+707,18,Digital Transformation,positive
+708,18,Increased Competition,negative
+709,18,Innovation,positive
+710,18,Framework for Analysis,neutral
+711,18,Scale Advantage,positive
+712,18,Tech Spending,positive
+713,18,Differentiated Products,positive
+714,18,Acquisition Strategy,positive
+715,18,Infrastructure Modernization,positive
+716,18,Cloud Spending,positive
+717,18,Automation,positive
+718,18,Productivity Gains,positive
+719,18,Data Unlocking,positive
+720,18,AI Benefits,positive
+721,18,Cybersecurity,positive
+722,18,Transformation Risks,negative
+723,18,Risk Management,negative
+724,18,Business Expansion,positive
+725,18,Digital Transformation,positive
+726,18,Innovation,positive
+727,18,Uncertainty,neutral
+728,18,Measurement Difficulty,negative
+729,18,Empire Building,negative
+730,18,Grand Plan,positive
+731,18,Leadership,positive
+732,18,Transition Risks,negative
+733,18,Acquisition Challenges,negative
+734,18,Technical Debt,negative
+735,18,Modernization Efforts,positive
+736,18,Technical Debt,negative
+737,18,Competitive Threat,negative
+738,18,Tech Spending,negative
+739,18,Financial Risk,negative
+740,18,Discretionary Spending,negative
+741,18,Operating Leverage,negative
+742,18,Inflation,negative
+743,18,Discretionary Investments,negative
+744,18,Financial Discipline,positive
+745,18,Tech Spending,neutral
+746,18,Technical Debt,negative
+747,18,Business Complexity,negative
+748,18,Cloud Risk,negative
+749,18,Hybrid Approach,neutral
+750,18,Multiple Cloud,neutral
+751,18,Industry Trend,positive
+752,18,Operational Limitations,negative
+753,18,Industry Leadership,positive
+754,18,Cloud Adoption,positive
+755,18,Digital Transformation,positive
+756,18,Cloud Workload,neutral
+757,18,Competition Risk,negative
+758,18,Growth Potential,positive
+759,18,Data Complexity,negative
+760,18,Cloud investments,positive
+761,18,IT Complexity,negative
+762,18,Cost Overrun,negative
+763,18,Time Delay,negative
+764,18,Market Share,positive
+765,18,Cost Advantage,positive
+766,18,Scalability,positive
+767,18,Cost Management,neutral
+768,18,Technical Debt,negative
+769,18,Past Success,positive
+770,18,Risk,negative
+771,18,Efficiency,positive
+772,18,Negative Leverage,negative
+773,18,Risk of Dilution,negative
+774,18,Shorter Life Cycle,negative
+775,18,Track Business Results,neutral
+776,18,Data Complexity,negative
+777,18,Tech Investment,positive
+778,18,Inefficient Spending,negative
+779,18,Flawed Process,negative
+780,18,Cloud Track Record,negative
+781,18,Hybrid Approach,positive
+782,18,Operational Risks,negative
+783,18,Reputational Risks,negative
+784,18,Market Share,positive
+785,18,Cost of Entry,positive
+786,18,Growth Potential,positive
+787,18,Technical Debt,negative
+788,18,Cost Savings,positive
+789,18,Complexity Risk,negative
+790,18,ROI Uncertainty,negative
+791,18,Payback Period,neutral
+792,18,Risk Exposure,negative
+793,18,Cyber Security,neutral
+794,18,Operational Efficiency,positive
+795,18,Organizational Complexity,negative
+796,18,Lack of Coordination,negative
+797,18,Cost Management,positive
+798,18,Market Share,positive
+799,18,Earnings Consistency,positive
+800,18,Balance Sheet,positive
+801,18,Long Term Investment,positive
+802,18,Frontloaded Spending,negative
+803,18,Goliath Theme,positive
+804,18,Expensive Valuation,negative
+805,18,Macro Downside Risk,negative
+806,18,Credit Loss Risk,negative
+807,18,Market Risk,negative
+808,18,Operational Risk,negative
+809,18,Higher Rates,positive
+810,18,Loan Growth,positive
+811,20,Gross Margins,positive
+812,20,Cost Concerns,negative
+813,20,Operating Margins,positive
+814,20,CEO Focus,negative
+815,20,Launch Inefficiencies,negative
+816,20,Cost Uncertainty,negative
+817,20,Margin Performance,positive
+818,20,EPS Growth,positive
+819,20,Long-term Outlook,positive
+820,20,Raw Material Costs,negative
+821,20,Raw Material Costs,negative
+822,20,Long-term Contracts,positive
+823,20,Cost-cutting,neutral
+824,20,Battery Chemistry,positive
+825,20,Regulatory Risks,negative
+826,20,Communication Strategy,positive
+827,20,Regulatory Risk,negative
+828,20,Partnership,positive
+829,20,Government Support,positive
+830,20,Government Incentive,positive
+831,20,Insurance Product,positive
+832,20,Driver Safety,positive
+833,20,Growth Assumptions,neutral
+834,20,DCF Analysis,neutral
+835,20,Value Additions,positive
+836,20,New EV competition,negative
+837,20,Regulatory risk,negative
+838,20,Commodity ination,negative
+839,20,Tension in China,negative
+840,20,Costly product recalls,negative
+841,20,New Capacity,positive
+842,20,Positive Reviews,positive
+843,20,US EV Credit,positive
+844,20,Commodity Prices,positive
+845,20,Market Expansion,positive
+846,20,US EV credits,positive
+847,20,raw material costs,negative
+848,20,US regulation,negative
+849,20,Model 3Y demand,negative
