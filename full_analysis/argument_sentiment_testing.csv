@@ -1,0 +1,261 @@
+,Unnamed: 0,document_id,paragraph_id,sentence_id,sentence,arguments,sentiment
+0,0,1,1,1,"Q4 was solid, highlighted by 32 billings growth yy, 80.00 which suggests the health of fundamentals and secular trends.","['Long-term Growth', 'Industry Outlook']",positive
+1,1,1,1,2,"One of the highlights on the call was the early success of recently introduced Wave Analytics, including wins at marquee logos such as Time Warner Cable, Merck, and others, which suggests the credibility of the product cyclegrowth engine against what looks like a massive multi billion dollar market opportunity.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",positive
+2,2,1,1,3,"Another standout on the call was the number of SaaSApplication Software 8figure deals, which likely reflects the companys industry vertical positioning, the strategic nature of relationships and comprehensive platform strategy.","['Investments', 'Market Share', 'Competitors', 'Industry Outlook', 'Partnerships and Collaborations']",neutral
+3,3,1,2,1,"While F16 rev guide was only tweaked up mildly, we believe guidance actually was solidencouraging, especially considering the significant FX headwinds that have plagued others with significant international exposure and CRMs impressive scale.",[],positive
+4,4,1,2,2,"Encouragingly, management appeared committed to showcasing continued operating margins improvement even despite nontrivial growth investments.","['Margins', 'Long-term Growth', 'Employees', 'Processes']",positive
+5,5,1,3,1,"Other highlights included a solid top line performance, solid deferred revenue growth, solid total backlog growth, strength across product areas and geographies, improving end user engagement, and ramping CEO interactions.","['EPS', 'Revenue', 'Margins', 'Long-term Growth', 'Processes']",positive
+6,6,1,4,1,Q4 revenue was up 26 yy to 1.44B and in line with Street estimate 1.44B. Non GAAP EPS was also in line with Street consensus at 0.14.,"['Revenue', 'Margins']",positive
+7,7,1,4,2,Gross margins compressed to 77.8 and operating margins were essentially flat.,['Margins'],positive
+8,8,1,4,3,"CFO was up 22 yy to 332 million, primarily impacted by the timing of Dreamforce Q3 this year vs. Q4 last year.",[],positive
+9,9,1,5,1,"Management was upbeat on the call, especially with respect to the recently launched Wave Analytics offering, competitive positioning, large deal activity, and deepening strategic customer relationships.","['Investments', 'Employees', 'Partnerships and Collaborations']",positive
+10,10,1,5,2,"Stock Price Performance At the midpoint, management raised FY16 guidance by 20 million to a range of 6.4756.520B vs. previous guidance of 6.456.50B vs. Street estimate of 6.5B even despite an FX impact of roughly 175200 million.","['EPS', 'Shares Repurchase']",positive
+11,11,1,5,3,Management guided F16 EPS to 0.670.69 vs. Street estimate of 0.69.,[],positive
+12,12,1,5,4,Management also guided for operating margins to expand by 125 to 150 bps yy in F16 even despite an FX impact of 2550 bps.,"['Margins', 'Long-term Growth', 'Economic Conditions']",positive
+13,13,1,6,1,"We continue to believe that Salesforce is the highest quality and bestscaled SaaS name in our universe, with numerous product cycles leveraged to the rising strategic importance of SaaS, which certainly suggests favorable riskreward relative to other subscaled, slower growing SaaS names.","['Investments', 'Product Characteristics', 'Partnerships and Collaborations']",positive
+14,14,1,7,1,"Q4 was solid even despite significant FX headwinds, highlighted by 32 billings growth yy vs. 23 in 3Q, which suggests the health of fundamentals and secular trends.","['Long-term Growth', 'Industry Outlook']",positive
+15,15,1,7,2,"One of the highlights on the call was the early success of recently introduced Wave Analytics launched in Nov 2014, including wins at marquee logos such as Time Warner Cable, Merck, and others recall the company had previously announced GE, Verizon, and EMC wins, which suggests the credibility of the product cyclegrowth engine against a massive multibillion dollar market opportunity.",['Innovation'],positive
+16,16,1,7,3,"Another standout on the call was the number of 8figure deals up 33 yy in F15, which likely reflects the companys industry vertical positioning rolled out roughly a year ago, the strategic nature of relationships starting to sell directly into the CEO office and comprehensive platform strategy 6 apps, including SalesCloud, ServiceCloud, MarketingCloud, Wave Analytics, Community, and Force.com.","['Investments', 'Market Share', 'Competitors', 'Industry Outlook', 'Partnerships and Collaborations']",neutral
+17,17,1,8,1,"While F16 rev guide was only tweaked up mildly raised to 6.4756.52 million from previous guidance of 6.456.50 billion vs. Street consensus of 6.5 billion, we believe guidance actually was solidencouraging, especially considering the significant FX headwinds plaguing others with significant international exposure FX impacted F16 rev guidance by an incremental 50 million and the companys scale annualized 6 billion rev by 1Q16.",[],positive
+18,18,1,8,2,"Encouragingly, management appeared committed to showcasing continued operating margin improvement despite nontrivial growth investments guided OM up 125150 bps in F16 even despite FX headwinds of 2550 bps on margins.","['Margins', 'Employees']",positive
+19,19,1,9,1,"Other highlights included a solid top line performancerevenue of 1.44 billion, up 26 yy, despite a negative FX impact of 34 million yy, solid deferred revenue growth up 32 yy and up 35 yy CC, benefited by improved term duration, solid total backlog growth over 9 billion, up 28 yy vs. up 28 yy in Q3 vs. up 32 in Q2, strength across product areas highlighted by accelerating qq growth in Service Cloud up 8 qq vs. up 7 in 3Q vs. and accelerating growth in Salesforce1Platform up 7 qq vs. up 6 in 3Q and solid growth in MarketingCloud up 7, qq vs. up 7 qq in Q3 and geographies led by up 30 yy CC growth in EU and up 25 yy growth in APAC and 29 yy growth in Americas.","['Revenue', 'Margins', 'Long-term Growth', 'Technology Trends']",positive
+20,20,1,10,1,Q4 revenue was 1.44 billion up 29 in CC and up 26 yy vs. up 29 in Q3 vs. up 38 in Q2 vs. up 37 in Q1 vs. Street estimate of 1.44 billion and nonGAAP EPS was 0.14 vs. Street of 0.14.,"['Revenue', 'Margins']",positive
+21,21,1,10,2,Gross margins compressed to 77.8 vs. 78.4 in Q3 and operating margins were essentially flat vs. flat in Q3.,['Margins'],positive
+22,22,1,10,3,"CFO was 332 million, up 22 yy vs. down 11 in 3Q vs. up 34 in 2Q vs. up 67 in 1Q, primarily impacted by the timing of Dreamforce Q3 this year vs. Q4 last year.",[],positive
+23,23,1,10,4,"Salesforce added 769 heads in Q4 vs. 313 in Q3 vs. 906 in Q2 vs. 927 in Q1, bringing total headcount to 16,227.",[],positive
+24,24,1,11,1,"Management was upbeat on the call, especially with respect to the recently launched Wave Analytics offering, competitive positioning, large deal activity, and deepening strategic customer relationships.","['Investments', 'Employees', 'Partnerships and Collaborations']",positive
+25,25,1,11,2,"At the midpoint, management raised FY16 guidance by 20 million to a range of 6.4756.520 billion vs. previous guidance of 6.456.50 billion vs. Street estimate of 6.5 billion even despite an FX impact of roughly 175200 million.",[],positive
+26,26,1,11,3,Management guided F16 EPS to 0.670.69 vs. Street estimate of 0.69.,[],positive
+27,27,1,11,4,Management also guided for operating margins to expand by 125 to 150 bps yy in F16 even despite an FX impact of 2550 bps.,"['Margins', 'Long-term Growth', 'Economic Conditions']",positive
+28,28,1,11,5,"For Q1, management guided revenueEPS to 1.4851.505 billion0.130.14 vs. Street 1.5 billion0.15.",['Employees'],positive
+29,29,1,12,1,"We continue to believe that Salesforce is the highest quality and best scaled SaaS name in our universe, with numerous product cycles leveraged to the rising strategic importance of SaaS, which certainly suggests favorable riskreward relative to other subscaled, slower growing SaaS names.","['Investments', 'Product Characteristics', 'Partnerships and Collaborations']",positive
+30,30,1,13,1,"CRM shares trade at 6.3x EVFY16Revs, but support a more premium multiple in our view given our belief that the company is the best scaled, highest quality SaaS name in our universe.",['Market Share'],positive
+31,31,1,13,2,"Were raising our price target to 80, predicated on 8x EVFY16Revs, which we believe is reasonable for the topshelf SaaS name in our universe with significant growth drivers, tough to replicate scale advantages, and strengthening competitive positioning ahead.",[],positive
+32,32,1,13,3,Risks to Target,"['Leadership', 'Regulations']",neutral
+33,33,1,14,1,Risks 1 Macroeconomic weakness could weaken renewals and delay sales cycles 2 Increasing competition could impact new and renewal pricing 3,"['Leadership', 'Pricing Strategy', 'Regulations', 'Economic Conditions']",negative
+34,34,1,14,2,Recent acquisitions could distract management and impact execution around core business 4 Unknown adoption rates of new products.,"['Mergers & Acquisition', 'Innovation', 'Product Characteristics']",negative
+35,35,3,1,1,Apple Inc. Snapshot Apple Inc. AAPL recently released its 2QFY16 results on 26 Apr16.,[],neutral
+36,36,3,1,2,"Results were not well received, with AAPL share price taking a tumble by more than 6 on the next market day.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",negative
+37,37,3,1,3,iPhone units sales were slightly above consensus expectations but revenue and EPS came in below consensus estimates.,"['Revenue', 'Margins']",positive
+38,38,3,1,4,This marked the first time iPhone sales have fallen.,['Revenue'],negative
+39,39,3,1,5,"Poor results along with poor profit guidance for the quarter ahead, which is far below consensus estimates, led to the drop in share price.","['Revenue', 'Margins']",negative
+40,40,3,1,6,AAPL has experienced a 10.5 decline in share price over a 1 year period.,[],negative
+41,41,3,2,1,Fall in revenue and earnings.,"['EPS', 'Revenue', 'Margins']",neutral
+42,42,3,2,2,"AAPL reported quarter revenue of US50.6 bn, missing consensus estimate by US1.37 bn and EPS of US1.90, missing by US0.10.","['Revenue', 'Margins']",negative
+43,43,3,2,3,Gross margin was 39.4 vs 40.8 yoy.,['Margins'],negative
+44,44,3,3,1,Services were the saving grace.,[],positive
+45,45,3,3,2,"AAPL reported US6 bn in revenue for Services, an increase of 20 yoy.","['Revenue', 'Margins']",positive
+46,46,3,3,3,"It cited growth in its App store, where revenue grew 35 yoy and Apple Music increased its paying subscriber base from 11 mn to 13 mn over the year.","['Revenue', 'Margins', 'Long-term Growth']",positive
+47,47,3,3,4,Apple Pay also increased its transactions volume by 5x.,[],positive
+48,48,3,4,1,Other Products revenue increased.,"['Revenue', 'Margins', 'Innovation', 'Product Characteristics']",positive
+49,49,3,4,2,Apple Watch sales helped to pull up the Other Products category by 30 yoy.,"['Revenue', 'Innovation', 'Product Characteristics']",positive
+50,50,3,5,1,Hardware sales continue weakening.,['Revenue'],negative
+51,51,3,5,2,"iPhone unit sales were down 16 yoy, iPad and Mac unit sales were also down by 19 and 12 yoy, respectively.",['Revenue'],negative
+52,52,3,6,1,"Initiating coverage with Buy rating AAPL has had impressive 840 growth rate over the past 10 years, with iPhone as its main growth driver.","['Long-term Growth', 'Global Presence']",positive
+53,53,3,6,2,"Despite recent weakness, AAPL is still generating enormous profits and cash.","['Cash Flow', 'Revenue', 'Margins']",positive
+54,54,3,6,3,AAPL generated more than US50 bn in revenue and more than US10 bn in net income during a difficult quarter.,"['Revenue', 'Margins']",positive
+55,55,3,6,4,"Additionally, its expansion in Services segment could provide support to its future growth.","['Long-term Growth', 'Research & Development', 'Market Expansion', 'Economic Conditions']",positive
+56,56,3,6,5,"Services has been increasing at an incredible rate, averaging about 20 growth over 5 years, and as AAPL expands its services, users would become more entrenched into its ecosystem.","['Long-term Growth', 'Economic Conditions']",positive
+57,57,3,7,1,"We are Positive on the Companys long term prospects, supported by its robust established user base and strong balance sheet.",[],positive
+58,58,3,7,2,"Nonetheless, much would still hinges on the Companys ability to innovate and contribution from its new products.","['Innovation', 'Product Characteristics']",neutral
+59,59,3,8,1,We have a DCF valuation of US119.37 for AAPL .,[],neutral
+60,60,3,9,1,iPhone sales are the main revenue source for AAPL and accounts for 65 of AAPLs total revenue.,"['Revenue', 'Margins']",neutral
+61,61,3,9,2,"As such, AAPL is known primarily as a hardware company, selling iPhones.",[],neutral
+62,62,3,9,3,The Company has taken steps to diversify its revenue streams.,"['Revenue', 'Margins', 'Innovation']",positive
+63,63,3,9,4,"While these steps do show promise, but at this point in time, the impact on total revenue is negligible compared to the revenue from the iPhone.","['Revenue', 'Margins']",neutral
+64,64,3,10,1,"iPhone had a phenomenal year in FY2015, which saw accelerated upgrade rate leading to close to 40 yoy sales growth.","['Revenue', 'Long-term Growth']",positive
+65,65,3,10,2,Unit sales have increased at an impressive CAGR of 17 yoy over the past 4 years.,"['Revenue', 'Long-term Growth']",positive
+66,66,3,11,1,"However, with the poor showing in its latest quarter results, coupled with near term macro headwinds and market saturation, it is likely that iPhone sales for the remaining of 2016 could be flattish, and this year could be the first year that AAPL will report a decline in unit sales.","['Revenue', 'Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",negative
+67,67,3,12,1,"That said, AAPL mentioned several mitigating factors that could underpin iPhone Sales Upgrades.",['Revenue'],neutral
+68,68,3,12,2,The first half of the upgrade cycle for iPhone 6s has seen a slightly higher rate than the iPhone 5s cycle two years ago.,[],positive
+69,69,3,12,3,It cited a Kantar survey showing a 95 iPhone loyalty rate.,"['Marketing', 'Customer']",neutral
+70,70,3,12,4,"Furthermore, according to Kantar, the iPhone 6 and 6 plus accounted only for 24 of all iPhones being used in US and China US and China iPhone users account for 65 of its total user base.",[],neutral
+71,71,3,12,5,"Coupled with iPhones 6s sales, that represents a sizable portion of current iPhone users that have yet to upgrade to the 6 or 6s, which AAPL could tap on when the next iteration is introduced.",[],neutral
+72,72,3,12,6,"This was also mentioned previously by Tim Cook, with 60 of current iPhone users have yet to upgrade.",[],neutral
+73,73,3,13,2,AAPL mentioned that there were more switchers from Android or other platforms to iOS in the 1HFY16 compared to any other sixmonth period ever.,[],neutral
+74,74,3,14,2,"AAPL mentioned that India could be the next growth driver and market for iPhones, citing iPhone sales in India were up 56 yoy.",['Long-term Growth'],positive
+75,75,3,14,3,"While global smartphone market seems to have reached saturation point in developed nations, Indias LTE network is still rolling out, representing a large untapped market.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",positive
+76,76,3,14,4,First timers are crucial to the Companys long term growth.,['Long-term Growth'],neutral
+77,77,3,14,5,Each new user is a potential loyal AAPL user.,['Innovation'],neutral
+78,78,3,14,6,"Once the user becomes entrenched into its Ecosystem, the user could start engaging in its Services and purchasing other AAPL products.","['Innovation', 'Product Characteristics']",neutral
+79,79,3,15,1,"iPhone SE, released on 31 March was not included in 2QFY16s results.",[],neutral
+80,80,3,15,2,"AAPL cites that demand for iPhone SE has exceeded its expected supply, leading also to the depressed 3QFY16 profit guidance.","['Revenue', 'Margins', 'Demand']",negative
+81,81,3,15,3,"Should sales for the iPhone SE take off, it would be indicative of pent up demand for cheaper iPhones and an opportunity for AAPL to create further headway into developing markets.","['Revenue', 'Market Share', 'Market Expansion', 'Competitors', 'Industry Outlook', 'Economic Conditions']",positive
+82,82,3,16,1,"Should AAPL follow its previous release schedules and release the iPhone 7 around September end FY16, it could also entice the large pool of older iPhone users to upgrade as the iPhone 5 and 5s would be 2 product cycles old by then.",[],neutral
+83,83,3,16,2,"However, the new iPhone 7 could only start contributing to its bottom line in FY17.",['Innovation'],positive
+84,84,3,17,1,"Given these factors, we believe that while iPhones will face headwinds in the increasingly saturated developed nations smartphone market, the fears of peak iPhone are",[],negative
+85,85,3,18,1,"overblown and believe that there is potential for iPhone sales to grow in the future, albeit at a slower rate.","['Revenue', 'Research & Development']",positive
+86,86,3,19,1,"AAPLs tablet offering the iPad, used to account for about 18 of AAPLs total revenue.","['Revenue', 'Margins']",neutral
+87,87,3,19,2,"However, the rapid growth of iPhones and falling iPad sales has led to iPad now making up only 10 of AAPLs total revenue.","['Revenue', 'Margins']",negative
+88,88,3,20,1,Tablets have longer replacement cycles compared to smartphones as consumers are less compelled to upgrade their tablets compared to smartphones.,"['Marketing', 'Demand']",negative
+89,89,3,20,2,"In 2QFY16, AAPL reported iPad sales were down 19 yoy with unit sales of 10.25 mn.",['Revenue'],negative
+90,90,3,20,3,iPad sales were slightly better than consensus estimates which were on average about 9.95 mn.,['Revenue'],positive
+91,91,3,20,4,"Of note however, the new 9.7 inch iPad Pro was only released at the end of Q2 2016 and sales figures would not have captured the full extent of demand.","['Revenue', 'Demand']",neutral
+92,92,3,20,5,AAPL expects the next quarter to be the best iPad quarter in two years based on their estimates.,[],positive
+93,93,3,20,6,"For now, we expect the iPad to continue accounting for a smaller component of AAPLs revenue over time.","['Revenue', 'Margins']",neutral
+94,94,3,21,1,"Macs are AAPLs laptops offering, they account for 11 of AAPLs revenue.","['Revenue', 'Margins']",neutral
+95,95,3,21,2,Mac unit sales have been on the uptrend over the past 3 years as the Macbook has gained popularity and more mainstream acceptance.,['Revenue'],positive
+96,96,3,21,3,"However, Macbook sales fell 9 yoy in 2QFY16, which was worse than consensus estimates.",['Revenue'],negative
+97,97,3,21,4,"However, a silver lining is that AAPL is gaining traction in China, where 80 of the Chinese Mac buyers were purchasing for the first time.",['Customer'],positive
+98,98,3,21,5,"Management has given guidance that it expects Mac sales to increase in 3QFY16 on the back of an updated Macbook, which was thinner and lighter with better specs.",['Revenue'],positive
+99,99,3,21,6,"As one of AAPL core offerings, we expect Mac sales to maintain its share of revenue as it gains traction as a viable alternative to PCs.","['Revenue', 'Margins']",positive
+100,100,3,21,7,"We believe that Mac sales will increase as compared to the iPad, despite both having similarly long replacement cycles compared to iPhone due to Mac having greater functionality.",['Revenue'],positive
+101,101,3,22,1,"Apple Watch led to a 30 yoy growth in Other Product revenue, since it is a relatively new product offering, the Watch has generated new avenues of revenue for AAPL.","['Revenue', 'Margins', 'Long-term Growth', 'Innovation']",positive
+102,102,3,22,2,Whether the take up rate can continue or the Watch becoming like the iPad in terms of replacement rate remains to be seen.,[],neutral
+103,103,3,23,1,Revenue from Services rose 20 yoy to US6 bn in 2QFY16.,"['Revenue', 'Margins']",positive
+104,104,3,23,2,Apple as a service is a concept that AAPL has taken large steps towards and is increasingly becoming the bright spot in the current environment of stalling hardware sales.,['Revenue'],positive
+105,105,3,23,3,"Services create the Eco system which allows AAPL to further entrench its user base, creating more reasons for its stickability.",[],positive
+106,106,3,23,4,AAPL has been showing that it is increasingly able to monetize that active user base to generate more revenue from its services.,"['Revenue', 'Margins']",positive
+107,107,3,23,5,"In the 1QFY16, AAPL revealed that it had 1 bn active installed base, devices that were actively engaged in Services within that quarter, leading to Installed Base Related Purchases of US8.9 bn.",[],positive
+108,108,3,23,6,This figure grew by 27 yoy to US9.9 bn in the March quarter.,[],positive
+109,109,3,24,2,"Revenue grew by 35 yoy, generating 90 more global revenue than Google Play.","['Revenue', 'Margins', 'Global Presence']",positive
+110,110,3,25,2,"Music grew from 10 mn to 13 mn paying subscribers since introducing a download and streaming model, leading AAPL to be optimistic that Apple Music revenue will start growing again moving forward.","['Revenue', 'Margins']",positive
+111,111,3,26,2,"Being very new, Apple Pay is not expected to make significant contribution to AAPLs FY16 revenue.","['Revenue', 'Margins']",neutral
+112,112,3,26,3,"However, adoption rate is increasing exponentially, with transactions volume growing by 500 yoy.",[],positive
+113,113,3,26,4,"AAPL has launched over 2.5 mn locations that accept Apple Pay, with plans to expand further.",[],positive
+114,114,3,26,5,"While usage rates remain low, as the idea of NFC Near Field Communication payment is still new and not widely adopted yet, there is still much room for growth and eventually monetization.",[],negative
+115,115,3,26,6,"However, with credit card companies like Visa, as well as other phone companies like Samsung, are also heading into the space, the idea of NFC payments might not take that long to be legitimized.",[],neutral
+116,116,3,26,7,"As such, we view this as an avenue with great potential in the future.",['Research & Development'],positive
+117,117,3,27,1,"Overall, we see great potential in Apple as a service.",[],positive
+118,118,3,27,2,"It remains the one category of revenue that AAPL has been able to achieve consecutive doubledigit growth, on average about 20, over the past 5 years.","['Revenue', 'Margins', 'Long-term Growth']",positive
+119,119,3,27,3,"Services provide recurring revenue stream for AAPL that could grow independent of the unit sales, making it especially helpful in the current environment of slowing hardware sales.","['Revenue', 'Margins']",neutral
+120,120,3,27,4,We expect Services revenue to continue to grow and become a greater part of AAPLs revenue as upgrade cycles for iPhones stretch to 23 years.,"['Revenue', 'Margins']",positive
+121,121,3,28,1,"Of note though, is Chinas recent ban of AAPL iBooks and iTunes Movies, which could be a potentially worrying trend.",[],neutral
+122,122,3,28,2,"Considering that if Services are to be the future of AAPL and Chinas important role in this strategy, then it would be a huge detriment to AAPLs future growth if the ban expands to the rest of AAPLs services.","['Long-term Growth', 'Research & Development']",neutral
+123,123,3,28,3,"For now however, with just the iBooks and iTunes Movies ban, while worrying, it is not a large dent in AAPLs services growth and the thesis of Service growth should still hold.",['Long-term Growth'],neutral
+124,124,3,29,1,"AAPL main revenue source by region comes from Americas, which makes up 40 of the total revenue.","['Revenue', 'Margins']",neutral
+125,125,3,29,2,"While Americas contribution to AAPLs revenue has been increasing on an absolute value, it has not been growing at a very fast pace.","['Revenue', 'Margins']",negative
+126,126,3,29,3,"Americas revenue grew 4 in 2014 when total revenue grew 7, and grew at 17 yoy in 2015 when total revenue grew at 28.","['Revenue', 'Margins']",neutral
+127,127,3,29,4,It is likely that Americas revenue will continue to grow at a slower pace as compared to the total revenue.,"['Revenue', 'Margins']",negative
+128,128,3,30,1,"On the other hand, Greater China, which currently makes up 25 of its total revenue, has been rising at an incredibly fast pace.","['Revenue', 'Margins']",positive
+129,129,3,30,2,"In 2014, Greater China only made up 17.4, this represents an 84 yoy increase.",[],positive
+130,130,3,30,3,"In the 2QFY16, China had a qoq change of 32 from 1QFY16, and a yoy change of 26.",[],neutral
+131,131,3,30,4,"China was the main reason for AAPLs explosive growth in the previous year, growing by 84 yoy in FY15.",['Long-term Growth'],positive
+132,132,3,30,5,"In comparison, 2QFY16s results appears dismal, coming in at US12.5 bn vs previous years US16.8 bn.",[],negative
+133,133,3,30,6,"When seen against the backdrop of such a breakout year previously, it is not surprising that investors have reacted negatively to AAPLs performance this quarter in China.",['EPS'],negative
+134,134,3,30,7,"However, we feel that this is less of a slowdown and more of a normalization of AAPLs sales in China.",['Revenue'],neutral
+135,135,3,30,8,"AAPLs YTD revenue from China stands at roughly US30.8 bn, already almost as much as FY14, where revenue from China was US31.8 bn.","['Revenue', 'Margins']",neutral
+136,136,3,30,9,"As LTE network continues to expand in China and adoption increases, we expect Chinas demand for iPhones to continue to grow.",['Demand'],positive
+137,137,3,30,10,"However, whether China adopts the same replacement rate that Americas has had over the past years remains to be seen.",[],neutral
+138,138,3,30,11,"Regardless, China should continue to be a growing source of revenue for AAPL.","['Revenue', 'Margins']",positive
+139,139,3,31,1,"As mentioned earlier, India is also a developing market which could provide avenues of future growth for AAPL, sales having grown 56 yoy.","['Revenue', 'Long-term Growth', 'Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",positive
+140,140,3,31,2,"As LTE networks continue to rollout, smartphones become more useable as compared to 2.5G or 3G networks, leading to increase demand.",['Demand'],positive
+141,141,3,31,3,"APAC ex Japan accounted only for US15 bn, being home to more developing nations, but as those nations continue to develop, AAPL should be able to take advantage of improvements in infrastructure to expand there.",['Research & Development'],positive
+142,142,3,32,1,"AAPL has amassed a large amount of cash, with US232.9 bn in cash and marketable securities as of 31 Mar 2016, up almost US20 bn yoy.",['Cash Flow'],positive
+143,143,3,32,2,"However, 90 of this cash hoard is outside the USA.",['Cash Flow'],neutral
+144,144,3,32,3,"This is significant due to USA tax laws, which would cause AAPL to have to pay upwards of about US60 bn if it was to remit back to the USA.",['Regulations'],neutral
+145,145,3,32,4,AAPL has thus taken advantage of the current low interest rate environment to take on more debt.,"['Balance Sheet', 'Competitors']",positive
+146,146,3,32,5,"AAPL issued another US15.5 bn in USD notes in the latest quarter, bringing its debt level to about US72 bn.",['Balance Sheet'],positive
+147,147,3,32,6,"This puts its current net cash position at about US160 bn, which is equivalent to about US30 per share.",['Cash Flow'],neutral
+148,148,3,32,7,"Most of the borrowings has been put to fund the Capital return program, mainly dividends and share buybacks.","['Cash Flow', 'Dividend Policy', 'Investments', 'Balance Sheet', 'Shares Repurchase']",neutral
+149,149,3,33,2,Attractive Capital Return Program Dividends and buyback increased .,"['Cash Flow', 'Dividend Policy', 'Investments', 'Balance Sheet', 'Shares Repurchase']",positive
+150,150,3,33,3,"AAPL announced a further increase to its capital return program on 26 April 2016, increasing it to US250 bn from US200 bn in April 2015.","['Cash Flow', 'Investments', 'Balance Sheet']",positive
+151,151,3,33,4,"The dividend was increased to US0.57 per share for shareholders on close of business 9 May 16, up c.10 from US0.52.","['Dividend Policy', 'Shares Repurchase']",positive
+152,152,3,33,5,"Since AAPL started paying a dividend in 2012, it has increased the dividend each year consecutively, from US0.38 per share to US0.52, with a CAGR of about 8p.a.",['Dividend Policy'],positive
+153,153,3,33,6,"This represents a payout ratio of about 24, which is relatively low, indicating that there is still substantial room for future dividend growth.","['Dividend Policy', 'Long-term Growth']",neutral
+154,154,3,33,7,Share repurchase authorization was also increased from US140 bn to US175 bn.,['Shares Repurchase'],positive
+155,155,3,34,1,Valuation Methodology Discounted Free Cash Flow Model DCF model was used to derive a valuation of AAPLs intrinsic value.,['Cash Flow'],neutral
+156,156,3,35,1,"We have made the following assumptions for the model Headwinds in iPhone sales leading to decline and slow growth over the next two years, after which iPhone sales should start growing at a slower rate iPad sales may pick up in the next FY but repeat the cycle of slow replacement, leading to flat revenue Increase in Mac take up as Macbooks gain traction and more mainstream acceptance as PC and laptop replacements Service Revenue will increase as AAPL expands their ecosystem and continues to increase the monetization of their user base","['Revenue', 'Margins', 'Long-term Growth']",neutral
+157,157,3,36,1,"We initiate coverage for AAPL with a Buy rating with a target price of US119.37 , derived from our DCF estimates.",['Global Presence'],positive
+158,158,3,37,1,Poor response to iPhone 7.,[],neutral
+159,159,3,37,2,"While AAPLs customer base is very loyal, if iPhone 7 has a lacklustre showing and fails to excite that base, it could lead to even lower take up and a longer replacement cycle.",[],negative
+160,160,3,37,3,Weaker consumer sentiment amidst slowdown in the global economy could also negatively impact the take up of iPhones.,"['Marketing', 'Demand']",negative
+161,161,3,38,1,Slowdown in Services.,[],neutral
+162,162,3,38,2,Services have been growing at an incredible rate and been the one bright spot in the 2QFY16.,[],positive
+163,163,3,38,3,AAPL transitioning into more of a Services company rather than a Hardware company also forms the basis for our estimates of future growth.,['Long-term Growth'],neutral
+164,164,3,38,4,"If Services revenue slows down or if consumers fail to become entrenched into AAPLs ecosystem, it would adversely affect AAPL and our valuations.","['Revenue', 'Margins', 'Marketing', 'Demand']",negative
+165,165,3,39,1,"It is difficult to find a one to one comparison to AAPL in the US market, as while its peers do have some overlap with AAPL, there is also large differences between them.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",neutral
+166,166,3,39,2,"As such, we have chosen to show Google and Microsoft as peer comparisons.",[],neutral
+167,167,3,39,3,"Google is relevant for the Android comparison and Microsoft is relevant for the Windows phone, PC and its recent move into a Service company as well.",[],neutral
+168,168,3,40,1,AAPL remains the largest of the three companies by market cap.,"['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",neutral
+169,169,3,40,2,"Based on PER, it is also the more undervalued stock amongst the three, trading at about 10x PER while the other two trade at more than 30x PER.",['Shares Repurchase'],positive
+170,170,3,41,1,"AAPL, at US92.79, is also trading near its 52 week low of US91.85.",[],negative
+171,171,3,41,2,"Based on the Historical PER chart below, it is also trading at near 8 year low valuations.",[],neutral
+172,172,3,41,3,"At US92.79, AAPL is trading at 10.32x PER as compared to its 5year historical average of 13.7x PER.",[],positive
+173,173,3,42,1,"AAPL gave poor guidance for 3QFY16, citing continued macro headwinds sending AAPL shares tumbling down.",['Market Share'],negative
+174,174,3,42,2,"We expect AAPLs share price to remain depressed in the short term, while the market reacts bearishly to AAPL prospects and fears on iPhones saturation.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",negative
+175,175,3,43,1,"However, AAPLs balance sheet remains strong with net cash at almost US160 bn, which works out to almost US30 net cash per share.",['Cash Flow'],positive
+176,176,3,43,2,"At current prices, that indicates a net price US60 per share, indicating a c.7x FY16e PER.",[],neutral
+177,177,3,44,1,"Additionally, its brand equity and loyal consumer base allows AAPL to continue to generate large profits and cash flow even in difficult seasons.","['Revenue', 'Margins', 'Balance Sheet', 'Marketing', 'Shares Repurchase', 'Demand']",positive
+178,178,3,44,2,Its growing Services revenue is promising as it shows AAPL is making headway in their transition to a Services company.,"['Revenue', 'Margins']",positive
+179,179,3,45,1,"Therefore, we believe that the current knee jerk reaction in the market to AAPL is overblown, leading to AAPL being undervalued.","['Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",positive
+180,180,3,45,2,"As such, we initiate a Buy rating on AAPL with a Target Price of US119.37 , indicating about a 28 upside to the share excluding dividends.",['Dividend Policy'],positive
+181,181,4,1,1,"Nektar announced positive results from the Phase 3 SUMMIT07 study of NKTR 181, the companys proprietary novel abuse resistant opioid for pain.",[],positive
+182,182,4,1,2,"In SUMMIT07, NKTR181 met all important primary and secondary endpoints in the study, and the molecule appeared well tolerated, in our view, materially de risking the program.",[],positive
+183,183,4,1,4,"At week 12 post randomization, average pain scores increased 1.46 points on the Numeric Rating Scale with placebo versus 0.92 points for NKTR 181 p0.0019, n610.",[],positive
+184,184,4,1,6,"The proportion of patients on NKTR181 experiencing pain reductions of 30 was 71.2 versus 57.1 for placebo p0.0003, and the proportion of patients with 50 pain reduction was 51.1 for NKTR181 versus 37.9 for placebo p0.001.",[],neutral
+185,185,4,1,7,"NKTR181 appeared welltolerated, with common adverse events 5 of nausea 10.4 and constipation 8.7 with NKTR181, compared to nausea 6.0 and constipation 3.0 with placebo.",[],positive
+186,186,4,1,8,"NKTR181 has been Fast 12 month target Tracked, a rarity for an opioid, and with this positive study in hand, there is a possibility for rapid progression of NKTR181 as a result.",[],positive
+187,187,4,1,9,A material partnership is now also a possibility for NKTR181.,['Partnerships and Collaborations'],neutral
+188,188,4,1,10,We maintain our Buy rating our estimates and target are currently under review.,[],positive
+189,189,4,1,11,52 week range Dividend Yield Market Cap m NKTR214 Data,"['Dividend Policy', 'Market Share', 'Market Expansion', 'Industry Outlook', 'Economic Conditions']",neutral
+190,190,4,1,12,"Emerging Throughout 17 ASCO Possibly A Highlight. NKTR214 could improve the safety and efficacy of IL2, an approved immunostimulant for RCC and melanoma.",[],positive
+191,191,4,1,13,"214s early clinical data has shown activity, and additional readouts are upcoming in combination with Bristol Myerss BMY, Not rated Opdivo nivolumab.",[],positive
+192,192,4,1,14,214 has shown important activity in a renal cell carcinoma patient being given Opdivo after treatment with 214 additional data in RCC patients with encouraging responses will be presented at ASCO in June.,[],positive
+193,193,4,2,1,Multiple NearTerm Additional Catalysts.,[],neutral
+194,194,4,2,2,"An EU decision for Onzeald for breast cancer patients with brain metastases in upcoming mid2017, and two inhaled antibiotic programs with Bayer BAYN, Not rated will have pivotal readouts in 1H17.",[],positive
+195,195,4,2,3,We anticipate success for each of these programs.,[],positive
+196,196,4,3,1,"NEKTAR THERAPEUTICS NKTR, Buy, 22.00 PT Current Price 15.50 Analyst Robert.",[],neutral
+197,197,5,1,1,212 5273505 We have lowered our CY18 revenue est.,"['Revenue', 'Margins']",negative
+198,198,5,1,2,"to 4,716M from 4,854M, and our EPS forecast to 4.40 from 4.75 following 3Q results, which missed our top line est.s as a result of continued price erosion and a lack of significant new product launches within its prescription generic segment.",['Demand'],negative
+199,199,5,1,3,"In addition, the Co.s animal health business continues to f ace performance issues, which led to the Co. taking a 213M goodwill intangible asset impairment.",['Balance Sheet'],neutral
+200,200,5,1,4,"With PRGOs new President and CEO Murray Kessler now at the helm, we expect a new set of operational initiatives to take effect in 2019.",['Sustainability'],neutral
+201,201,5,1,5,"However, the dete rioration of the Co.s generic Rx segment is troubling , especially when considering that operating margins were in the lowtomid 40 range not that long ago.",['Margins'],negative
+202,202,5,1,6,"While PRGO shares have dropped 28 YTD and 16 12 month target today, we think the Co.s valuation is still a t a substantial premium to its specialty pharma peers.",['Market Share'],negative
+203,203,5,1,7,"Based on our CY18 EPS est. of 4.40, PRGO shares are trading at a PE multiple of 14x, which we think is still a lofty multiple.",['Market Share'],positive
+204,204,5,1,8,"52 week range For CY18, PRGO now expects revenues of 4.7B down from 4.8 Dividend Yield Market Cap m 4.9B, with adj.","['Revenue', 'Margins', 'Dividend Policy']",negative
+205,205,5,1,9,"operating income of 890 920M down from 960 990M, and adj.",['Revenue'],negative
+206,206,5,1,10,EPS of 4.45 4.65 down from 4.75 4.95.,[],negative
+207,207,5,1,11,Operating cash flows are now targeted at 600M down from 675M.,['Cash Flow'],negative
+208,208,5,2,1,"For the Rx generic segment, PRGO now expects net sales of 800M down from 880M with an adj.",['Revenue'],negative
+209,209,5,2,2,operating margin in the midtohigh 30 range down from 40 previously.,['Margins'],negative
+210,210,5,2,3,"The Co. highlighted its main reasons for the downward revisions including a disappointing launch for generic Androgel 1.62, poor customer service, and continued price erosion on its base business.",[],negative
+211,211,5,3,1,PRGO finished 3Q with 444M of cash and 3.3B of total debt.,"['Cash Flow', 'Balance Sheet']",neutral
+212,212,5,3,2,"During the quarter, the Co. repurchased 1.8M shares at a cost of 135M. We est.","['Shares Repurchase', 'Market Share']",positive
+213,213,5,3,3,PRGOs debt EBTIDA ratio is currently at 2.8x.,['Balance Sheet'],neutral
+214,214,5,4,1,"PRGO reported 3Q revenues of 1,133M vs. our 1,243M est.","['Revenue', 'Margins']",positive
+215,215,5,4,4,EPS of 1.09 vs. our 1.05 est..,[],positive
+216,216,5,4,5,"CHC America revs of 596M were flat YOY vs. our 593M est., Rx Pharma revs of 179M were down 28 YOY vs. our 207M est., and CHC Intl revs of 358M were down 2 YOY vs. our 367M est..",[],negative
+217,217,5,5,1,Valuation We maintain our Neutral rating on PRGO shares.,['Market Share'],positive
+218,218,5,6,1,"For the Rx generic segment, PRGO now expects net sales of 800M down from 880M with an adj.",['Revenue'],negative
+219,219,5,6,2,operating margin in the midtohigh 30 range down from 40 previously.,['Margins'],negative
+220,220,5,6,3,"The Co. highlighted its main reasons for the downward revisions including a disappointing launch for generic Androgel 1.62, poor customer service, and continued price erosion on its base business.",[],negative
+221,221,5,7,1,"For CY18, PRGO now expects revenues of 4.7B down from 4.8 4.9B, with adj.","['Revenue', 'Margins']",negative
+222,222,5,7,2,"operating income of 890 920M down from 960 990M, and adj.",['Revenue'],negative
+223,223,5,7,3,EPS of 4.45 4.65 down from 4.75 4.95.,[],negative
+224,224,5,7,4,Operating cash flows are now targeted at 600M down from 675M.,['Cash Flow'],negative
+225,225,5,8,1,We have lowered our CY18 revenue est.,"['Revenue', 'Margins']",negative
+226,226,5,8,2,"to 4,716M from 4,854M, and our EPS forecast to 4.40 from 4.75.",['Demand'],positive
+227,227,5,9,1,"For the Rx generic segment, PRGO now expects net sales of 800M down from 880M with an adj.",['Revenue'],negative
+228,228,5,9,2,operating margin in the midtohigh 30 range down from 40 previously.,['Margins'],negative
+229,229,5,9,3,"The Co. highlighted its main reasons for the downward revisions including a disappointing launch for generic Androgel 1.62, poor customer service, and continued price erosion on its base business.",[],negative
+230,230,5,10,1,"PRGO reported 3Q revenues of 1,133M vs. our 1,243M est.","['Revenue', 'Margins']",positive
+231,231,5,10,4,EPS of 1.09 vs. our 1.05 est..,[],positive
+232,232,5,11,1,"CHC America revs of 596M were flat YOY vs. our 593M est., Rx Pharma revs of 179M were down 28 YOY vs. our 207M est., and CHC Intl revs of 358M were do wn 2 YOY vs. our 367M est..",[],negative
+233,233,5,12,1,"PERRIGO COMPANY PLC PRGO, Neutral, NA PT Current Price 62.88 Analyst Timothy.",[],neutral
+234,234,7,1,1,"INVESTMENT HIGHLIGHTS NA SCTY hosted a wellattended Analyst Event in Fremont, CA.","['Return On Equity', 'Investments']",neutral
+235,235,7,1,2,"Walking through its value creation model, mgmt provided extensive details on cost improvements and various technologies.","['Research & Development', 'Processes']",neutral
+236,236,7,1,3,We came away more positive on SCTYs costs Solar Photovoltaic Technology roadmap and leadership in the solar space.,"['Margins', 'Cost Management', 'Research & Development']",positive
+237,237,7,1,4,"However, the company did not provide much detail on what SCTYs cost of capital would look like in the postITC rising interest rate environment, a major investor question.","['Cash Flow', 'Investments', 'Balance Sheet']",neutral
+238,238,7,1,5,"In the near term, news flow on regulatory changes, including net metering such as yesterdays CPUC proposed fee for NED and ITC extension could drive wider swings in the stock price.","['Shares Repurchase', 'Regulations']",negative
+239,239,7,1,6,"Longer term, we believe Raising price in 2016.",[],neutral
+240,240,7,1,7,"investors will remain focused on growth, cash flow and value creation.","['Cash Flow', 'Long-term Growth']",neutral
+241,241,7,2,1,SCTY plans to increase its price in CA by 0.01kWh and on a blended avg price by 0.007kWh.,[],positive
+242,242,7,2,2,We estimate such a move could translate to an Offered new LT cost targets in the postITC arena.,[],positive
+243,243,7,2,3,"increase in value creation from 3.86W to 4.01W, or 4.",[],positive
+244,244,7,3,1,"New 2017 cost target of 2.25 W is below the prior target of 2.50W, mostly coming from more aggressive savings in sales and installation.",[],negative
+245,245,7,3,2,"Additionally, mgmt provided a 2019 target of 2.00W, but that would require substantial improvements to customer acquisition costs and Commercial effort appears to be gaining traction.","['Margins', 'Cost Management']",positive
+246,246,7,3,3,"successful rampup of Silevo, both of which carry some risks.","['Leadership', 'Regulations']",neutral
+247,247,7,4,1,Comments suggest commercial bookings continue to be strong going into 4Q15.,[],positive
+248,248,7,4,2,SCTY has increased insourcing of commercial installation and launched a new racking system to better control quality costs.,"['Margins', 'Cost Management']",positive
+249,249,7,4,3,"While mgmt guided for commercial installation to grow at a similar rate as overall, we believe good traction in larger 1MW installation will drive upside to total Plans to monetize more upfront cash flow amount to 3rd party selling of asset 2016 guidance of 1.25GW up 43.",[],positive
+250,250,7,5,1,We appreciate mgmt for offering more simplified metrics to provide clear visibility to value creation.,[],neutral
+251,251,7,5,2,"Mgmt highlighted the value created in 3Q15 at 3.86 Stock Price Performance W vs. costs of 2.84W. SCTY is currently monetizing 2.68W with debt, but looking into a 3rd party equity buyer could be private yieldco to maximize upfront monetization for some of the asset.","['Balance Sheet', 'Shares Repurchase']",neutral
+252,252,7,5,3,"In our view, the plan effectively amounts to selling of the asset value, which would shift part of its business to a buildandsell model similar to other project development companies.","['Balance Sheet', 'Research & Development']",neutral
+253,253,7,5,4,"Clearly, this would improve cash flow to the company, but it would be at the expense of reducing retained value and Various technologies developed should increase differentiation.","['Cash Flow', 'Margins', 'Cost Management', 'Research & Development']",positive
+254,254,7,5,5,reducing the longterm value creation.,[],negative
+255,255,7,6,1,"We were impressed by the demo of the Silevo pilot line, as well as the large number of software tools and new racking systems developed by SCTY.",['Technology Trends'],positive
+256,256,7,6,2,We believe these technologies will help SCTY remain competitive in the market.,"['Research & Development', 'Market Share', 'Market Expansion', 'Competitors', 'Industry Outlook', 'Economic Conditions']",positive
+257,257,7,7,1,New subsidy programs or new states where SolarCity currently does not operate,['Regulations'],neutral
+258,258,7,8,1,Leadership position could become a greater barrier to entry for other solar players,['Leadership'],neutral
+259,259,7,9,1,Incurs costs of removing a solar system if either a new property owner elects not to maintain existing contracts or customers elect not to renew a contract when it expires,"['Margins', 'Cost Management']",neutral
