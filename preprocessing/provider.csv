@@ -16,5 +16,5 @@ Spartan Capital Securities LLC,Spartan_Capital_Securities_LLC,Important Disclosu
 Cascend Securities -Historical-,Cascend_Securities_-Historical-,Disclosures:,Price target: ${price},Rating: {RATING}
 Phillip Securities,Phillip_Securities,Important Information,TARGET PRICE USD,{RATING} ({UPPERCASELETTERS})
 FinTrust Investment Advisors,FinTrust_Investment_Advisors,Important Disclosures:,Target Price: ${price},Fintrust Rating: {RATING}
-IBM Investment House,IBM_Investment_House,Disclosures,Price target: ${price},Recommendation: {Rating}
-APP Securities Pty LTd, APP_Securities_Pty_Ltd,Analyst Certification,
+IBI Investment House,IBI_Investment_House,Disclosures,Price target: ${price},Recommendation: {Rating}
+APP Securities Pty LTd, APP_Securities_Pty_Ltd,Analyst Certification,TARGET PRICE, {UPERCASELETTERS}
