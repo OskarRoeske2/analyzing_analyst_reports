@@ -9,7 +9,7 @@ Brean Capital LLC,Brean_Capital,Analyst Certification,PT: $  {price},{Rating} PT
 Hilliard Lyons,Hilliard_Lyons,Analyst Certification,Price Target {price},NSYE -- {Rating} --
 Alliance Global Partners,Alliance_Global_Partners,Imporant Research Disclosures,Price Target ${price},{Rating} (Ticker:
 Mizuho Securities,Mizuho_Securities,IMPORTANT DISCLOSURES,Price Target ${price},Rating Buy
-Gilford Securities,Gilford_Securities_Inc,ANALYST CERTIFICATION,- ,BUY OR Rated: 
+Gilford Securities Inc,Gilford_Securities_Inc,ANALYST CERTIFICATION,- ,BUY OR Rated: 
 Deutsche Bank,Deutsche_Bank,Appendix 1,Price Target (USD) {price},Rating {Rating}
 Pivotal Research Group,Pivotal_Research_Group,Appendix: Important Disclosures,Target Price: ${price},RATING: {RATING}
 Spartan Capital Securities LLC,Spartan_Capital_Securities_LLC,Important Disclosures,T ${price},{Rating}
