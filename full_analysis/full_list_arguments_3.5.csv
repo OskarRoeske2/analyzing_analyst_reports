@@ -1,0 +1,386 @@
+,Argument,positive,neutral,negative
+0,Technology Trends,527,29,54
+1,Market Expansion,509,19,49
+2,Partnerships and Collaborations,130,2,1
+3,Innovation,367,8,19
+4,Competition,91,60,573
+5,Market Share,938,47,189
+6,Growth,2242,74,242
+7,Revenue,1874,249,547
+8,Margins,731,74,512
+9,Market Conditions,394,172,550
+10,Long-term Growth,66,9,5
+11,Investments,605,110,149
+12,Cash Flow,284,37,104
+13,Earnings per Share,442,125,122
+14,Discount Rate,0,3,0
+15,Cost Management,430,50,298
+16,Research and Development,181,21,13
+17,Marketing,150,13,42
+18,Leadership,116,11,33
+19,Economic Conditions,13,8,80
+20,Regulations,20,28,103
+21,Dividend Policy,163,28,54
+22,Balance Sheet,106,37,34
+23,Shares Repurchase,94,10,4
+24,Price/Earnings Ratio,42,59,31
+25,Valuation,87,210,117
+26,Supply Chain,98,11,103
+27,Demand,39,13,39
+28,Pricing Strategy,39,14,11
+29,Global Presence,39,2,17
+30,Legal Issues,8,6,57
+31,Risk Management,75,27,231
+32,Product Characteristics,78,8,4
+33,Employees,42,24,37
+34,Seasonality,2,9,27
+35,Mergers and Acquisition,173,38,60
+36,E-commerce,131,14,28
+37,International Expansion,17,1,6
+38,Sales,44,9,17
+39,Financial Performance,328,48,162
+40,Production,55,17,38
+41,Intellectual Property,6,6,10
+42,Return On Equity,46,12,8
+43,Profitability,63,6,31
+44,Customer,155,31,28
+45,Customers,148,10,30
+46,Industry Outlook,15,2,7
+47,Competitive Position,50,0,18
+48,Debt,10,20,96
+49,Privacy,5,0,21
+50,Inventory,21,13,28
+51,Sales Performance,34,12,46
+52,Product Strategy,79,8,15
+53,Brand Image,21,1,5
+54,Earnings,288,66,146
+55,Currency Exchange,3,6,57
+56,Operations,52,10,20
+57,Productivity,19,1,2
+58,Financial Strength,19,1,3
+59,Stock Price,24,7,28
+60,Market Cap,12,13,7
+61,Deferred Revenue,6,2,4
+62,Backlog,7,0,1
+63,Product Performance,64,4,16
+64,Geographic Expansion,4,0,1
+65,Guidance,24,16,14
+66,Net Income,9,1,3
+67,Operating Margin,62,14,11
+68,Tax Rate,24,27,27
+69,Stock Repurchase,147,29,22
+70,Capital Allocation,21,8,4
+71,Stock Performance,46,8,42
+72,Executive Compensation,5,1,2
+73,Digital Initiatives,12,0,0
+74,Interest Rates,15,7,27
+75,Management,38,7,32
+76,Return On Invested Capital,17,1,9
+77,Stock Ownership,12,1,1
+78,Diversification,2,1,0
+79,Quality,4,0,2
+80,Value Investing,4,0,1
+81,Fundamentals,1,1,1
+82,Operating Expense,2,4,5
+83,Gross Profits,8,0,1
+84,Operating Income,12,5,3
+85,Free Cash Flow,62,9,22
+86,Debt Reduction,30,1,2
+87,Capital Expenditure,9,29,18
+88,Return On Investment,1,0,1
+89,Acquisitions,12,5,5
+90,Stock Recommendation,33,16,12
+91,Sales Growth,342,22,150
+92,Synergies,17,4,0
+93,Tax Policy Impact,8,3,19
+94,Earnings Forecast,124,73,125
+95,Collaborations,34,0,8
+96,Processes,15,1,2
+97,Entrepreneurs,1,0,0
+98,Product Development,74,7,10
+99,Performance,5,1,2
+100,Marketplace,14,1,2
+101,Geopolitical Risk,0,2,22
+102,Refranchising,11,0,0
+103,Customer Acquisition,22,0,3
+104,Customer Retention,13,3,2
+105,EPS Guidance,0,0,1
+106,Spending,2,5,0
+107,EPS,10,2,1
+108,Stock-Based Compensation,1,3,4
+109,Risks,1,1,35
+110,Talent Management,4,0,6
+111,EBIT Margin,9,0,1
+112,Trust,0,0,2
+113,Employee Satisfaction,7,0,0
+114,Rail Pricing,1,0,0
+115,Energy Impact,1,0,1
+116,Parcel Carriers Momentum,1,0,0
+117,Truckload Carriers Rates,1,0,0
+118,Brokers Uncertainty,0,1,0
+119,Stock Specific Level,0,1,0
+120,UNP Stock Consensus,1,0,0
+121,XPO Interest,0,1,0
+122,KSU Perception,0,0,1
+123,UPS Attention,0,1,0
+124,Operating Metrics,1,0,1
+125,Truckload Rates,1,0,0
+126,Inventory Management,33,7,19
+127,Product Innovation,47,3,7
+128,Data Protection,5,0,5
+129,Operational Issues,0,0,8
+130,Efficiency,56,2,4
+131,Revenue Recognition,4,0,3
+132,Corporate Social Responsibility,3,0,0
+133,Customer Service,19,0,3
+134,Advertising,20,4,17
+135,Taxes,0,4,1
+136,Accounting Practices,0,1,1
+137,General Economic Trends,1,0,2
+138,Market Data,3,1,0
+139,EBITDA,10,10,10
+140,Franchise Management,3,0,2
+141,Cash Management,3,1,1
+142,Stock Buyback,13,1,0
+143,Cash Position,16,0,1
+144,Sentiment,4,2,7
+145,Efficacy,24,5,2
+146,Safety,22,1,4
+147,Divestment,9,1,1
+148,Tax Liability,2,1,7
+149,Leverage,2,16,5
+150,Global Expansion,14,0,4
+151,Earnings Quality,22,4,10
+152,Market Trends,56,10,9
+153,Promotions,4,7,2
+154,Business Transformation,4,0,0
+155,Digital Transformation,15,0,0
+156,Customer Experience,49,0,3
+157,Process Optimization,1,0,0
+158,Quality Management,6,0,0
+159,Regulatory Approval,14,4,12
+160,Clinical Trials,49,13,12
+161,Drug Development,19,4,10
+162,Expenses,2,15,32
+163,Loan Portfolio,8,12,22
+164,Return On Assets,2,4,0
+165,Return On Tangible Common Equity,9,5,3
+166,Capital Adequacy,20,3,4
+167,Operating Leverage,21,1,11
+168,Investment Banking,16,1,3
+169,Sales & Trading,4,1,2
+170,Equities,2,0,2
+171,Equity Underwriting,5,0,1
+172,Debt Underwriting,5,0,2
+173,Loan Syndication,0,0,2
+174,Mergers and Acquisition Advisory,1,0,2
+175,Currency Impact,1,4,25
+176,EBIT,1,0,0
+177,Shares Outstanding,1,12,2
+178,Sales & Marketing,3,1,2
+179,Risk/Reward,13,1,4
+180,Sustainability,27,0,4
+181,Environmental Impact,3,0,2
+182,Visibility,1,1,4
+183,Execution,6,2,12
+184,Regulatory Issues,12,5,63
+185,Culture,1,0,1
+186,Operating Expenses,3,2,10
+187,Sales Risk,0,0,2
+188,Return On Capital Employed,2,1,2
+189,Financial Services,2,0,0
+190,Commercial Banking,3,0,2
+191,Asset Management,3,0,1
+192,Net Interest Margin,2,1,4
+193,Trading,6,0,1
+194,Corporate Lending,1,0,1
+195,Credit Quality,10,1,7
+196,Content Spend,2,0,1
+197,Licensing Revenue,0,0,1
+198,Expense,0,2,1
+199,Cost Reduction,5,0,1
+200,Gross Margin Return on Inventory,2,0,2
+201,Credit,1,2,0
+202,Product Launch,8,1,0
+203,Loan Demand,0,1,5
+204,Underwriting,1,0,0
+205,Oil Prices,7,2,7
+206,Economic Recovery,1,1,0
+207,Capex Allocation,1,1,2
+208,Shareholder Returns,3,0,0
+209,Pipeline,2,0,3
+210,Litigation Concerns,0,0,2
+211,Loan Growth,17,4,4
+212,Capital Markets,1,1,0
+213,Net Interest Income,23,4,4
+214,Strength,2,0,0
+215,Restructuring,6,0,2
+216,Value Unlocking,3,0,0
+217,Liquidity,1,0,3
+218,Loan Loss Reserves,6,1,6
+219,Financial Position,4,0,0
+220,Flexibility,1,0,0
+221,Gross Margin,9,2,4
+222,Yield,0,0,3
+223,Mortgage Production,1,0,0
+224,Net Charge-offs,0,0,2
+225,Health Impact,2,2,4
+226,R&D,0,0,1
+227,Earnings Risk,0,1,3
+228,Commercial Lending,1,1,1
+229,HELOC Utilization,0,1,1
+230,User Growth,1,1,5
+231,Ad ARPU,1,0,0
+232,Engagement,1,0,4
+233,Global Economic Conditions,0,0,5
+234,Oil & Gas Industry,2,0,0
+235,Energy Sector,2,0,0
+236,Stock Dilution,0,0,4
+237,Capital Structure,0,1,0
+238,Working Capital,2,1,1
+239,API Integration,1,0,0
+240,Workflow Integration,1,0,0
+241,Market Expectations,3,3,6
+242,FICC,1,0,1
+243,Customer Remediation,0,0,2
+244,Reserve Release,1,0,0
+245,Asset Sale,3,0,2
+246,Cost of IBL,0,0,1
+247,Deposits,3,1,2
+248,Deposit Costs,0,0,1
+249,Earnings Visibility,3,0,0
+250,Operational Performance,1,0,0
+251,Industrial Recovery,2,0,0
+252,Litigation,1,0,8
+253,User Engagement,6,0,0
+254,Emissions Reduction,4,0,0
+255,Financial Impact,2,1,2
+256,Organizational Structure,1,0,0
+257,Customer Engagement,10,1,0
+258,Commodity Prices,4,1,6
+259,Franchising,6,1,0
+260,Asset-Light Models,1,0,0
+261,Supplier Relations,1,0,0
+262,Manufacturing,0,0,1
+263,Branded Exposure,1,0,0
+264,Operating Margin Return on Inventory,0,0,2
+265,Tax Impact,2,0,5
+266,EBITDA Multiple,0,1,0
+267,Transaction Closure,1,0,0
+268,Scalability,1,0,0
+269,Inflation,4,12,9
+270,Value Creation,4,0,0
+271,Retail Initiatives,0,1,0
+272,Demographics,1,0,0
+273,Transition,1,1,0
+274,Earnings Guidance,6,7,4
+275,EBITDA Margin,2,1,1
+276,Programming Expenses,0,0,2
+277,Subscriber Growth,3,0,0
+278,Subscription Growth,1,0,0
+279,Training,0,0,1
+280,Political Environment,0,1,4
+281,Revenue Growth,162,7,19
+282,Capacity Expansion,2,0,1
+283,Price/Mix Strategy,22,6,6
+284,Operating Performance,3,0,1
+285,Security Breach,0,0,1
+286,Cryptocurrency Impact,0,1,0
+287,GPU Market,0,1,0
+288,Earnings Call Focus,0,1,0
+289,GPU Supply Outlook,0,1,0
+290,GPU Pricing,0,1,0
+291,Crypto Demand Impact,0,1,0
+292,Gaming Demand,1,0,0
+293,Crypto Volatility,0,1,0
+294,Vaccine Development,2,0,0
+295,Safety Profile,2,0,1
+296,Dividend Yield,2,0,0
+297,Depreciation,0,1,0
+298,Sales Channels,2,0,0
+299,Logistics Costs,0,0,2
+300,SG&A Growth,0,2,1
+301,Data Analytics,10,0,0
+302,Tax Settlement,0,1,0
+303,Earnings Growth,37,4,12
+304,Corporate Governance,4,0,2
+305,Deposit Growth,3,1,0
+306,Transparency,1,0,1
+307,Traffic,2,0,0
+308,Securities,1,1,0
+309,Insurance,2,0,0
+310,Government Policies,1,0,0
+311,Labor Challenges,1,1,6
+312,Security,1,0,0
+313,Holiday Sales,3,1,0
+314,IT Systems,1,0,0
+315,Digital Platforms,1,0,0
+316,Executive Changes,0,1,0
+317,Innovations,1,0,0
+318,Cryptocurrency,2,0,1
+319,Transaction Fees,0,0,1
+320,Fees,1,1,1
+321,Foreign Exchange,0,0,5
+322,Exploration,7,0,0
+323,Commodities,4,0,10
+324,Pension Obligations,1,0,0
+325,Volume Leverage,2,0,0
+326,Price Shock Absorber,1,0,0
+327,SG&A,3,1,8
+328,COVID Impact,3,0,6
+329,Net Cash,1,0,0
+330,Market Performance,13,0,11
+331,Fashion Trends,0,0,2
+332,Control,1,0,0
+333,Interest Expense,0,1,2
+334,Investor Concerns,0,0,1
+335,Natural Gas,0,0,2
+336,Volume,0,0,1
+337,Price Impact,4,0,3
+338,Margins Expansion,6,1,0
+339,Earnings Catalysts,4,0,0
+340,Sales Promotion,2,0,0
+341,Succession Planning,1,0,0
+342,Consumer Trends,1,0,2
+343,Travel Industry,1,0,0
+344,Digitalization,1,0,0
+345,Fintech Partnerships,1,0,0
+346,Customer Protection,2,0,2
+347,Customer Relationship,3,0,0
+348,Market Growth,5,1,0
+349,Sales Forecast,0,1,0
+350,Execution Risk,0,0,4
+351,Energy Transition,4,0,0
+352,LNG Pricing,1,0,0
+353,Credit Risk,2,1,2
+354,Retail Landscape,0,0,1
+355,Apparel Recovery,0,0,1
+356,Customer Spending,0,0,1
+357,Consumer Pressure,0,0,1
+358,Cybersecurity,2,0,1
+359,Financial Risk,0,0,2
+360,Tech Spending,1,1,0
+361,Earnings Momentum,0,0,1
+362,Contracts,1,0,0
+363,Margin Compression,0,0,1
+364,Investor Confidence,0,0,2
+365,Engineering Talent,0,0,1
+366,Fees and Costs,0,1,0
+367,Reserve Build,0,1,0
+368,Securities Losses,0,0,1
+369,Competitors,0,2,0
+370,Volume Growth,1,0,1
+371,Real Estate,1,0,0
+372,Cross-border Transactions,1,0,0
+373,Litigation and Regulation,0,0,1
+374,Consumer Spending,0,1,0
+375,Tax Issues,1,0,0
+376,Fee Income,1,0,1
+377,Provision Expense,0,0,2
+378,Equity,0,0,1
+379,Customer Satisfaction,1,0,0
+380,Market Recognition,1,0,0
+381,Diversity,1,0,0
+382,Integration,1,0,0
+383,Store Expansion,2,0,0
+384,Compliance,0,0,1

@@ -10,8 +10,8 @@ NVIDIA Corp.,NVDA,TRUE,TRUE,2015-2022,Technology,,,Energy,6
 Pfizer Inc.,PFE,TRUE,TRUE,2012-2022,Healthcare,,,Financials,6
 Johnson & Johnson,JNJ,TRUE,TRUE,2012-2022,Healthcare,,,Industrials,4
 Procter & Gamble Co.,PG,FALSE,,2012-2022,Consumer Staples,,,Materials,4
-Coca-Cola Co.,KO,TRUE,TRUE,2012-2022,Consumer Staples,,,Clothing,4
-PepsiCo Inc.,PEP,TRUE,TRUE,2012-2022,Consumer Staples,,,Travel,3
+Coca-Cola Co.,KO,TRUE,TRUE,2012-2022,Food,,,Clothing,4
+PepsiCo Inc.,PEP,TRUE,TRUE,2012-2022,Food,,,Travel,3
 Exxon Mobil Corp.,XOM,TRUE,TRUE,2012-2022,Energy,,,Beauty,3
 Chevron Corp.,CVX,TRUE,TRUE,2012-2022,Energy,,,Retail,3
 Walmart Inc.,WMT,TRUE,TRUE,2012-2022,Consumer Staples,,,Food,2
