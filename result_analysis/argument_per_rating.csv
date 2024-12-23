@@ -1,0 +1,284 @@
+argument_list,buy,equal weight,hold,neutral,none,outperform,overweight,sell,underperform,underweight
+API Integration,0,0,0,0,0,0,1,0,0,0
+Accounting Practices,1,0,0,0,0,0,1,0,0,0
+Ad ARPU,0,0,0,0,0,0,1,0,0,0
+Apparel Recovery,0,1,0,0,0,0,0,0,0,0
+Asset-Light Models,0,0,0,0,0,0,1,0,0,0
+Backlog,2,1,2,0,0,0,3,0,0,0
+Balance Sheet,68,28,30,23,1,2,133,1,3,19
+Branded Exposure,0,0,0,0,0,0,1,0,0,0
+Brokers Uncertainty,0,0,0,0,1,0,0,0,0,0
+Business Transformation,0,0,0,1,0,0,3,0,0,0
+COVID Impact,5,0,0,0,0,0,4,0,0,0
+Capacity Expansion,1,1,0,0,0,0,1,0,0,0
+Capital Markets,0,0,0,0,0,0,2,0,0,0
+Capital Structure,0,0,0,1,0,0,0,0,0,0
+Cash Flow,98,38,78,76,2,0,195,3,15,43
+Clinical Trials,52,2,0,1,0,0,18,0,0,1
+Commercial Banking,1,1,0,0,0,0,3,0,0,0
+Commercial Lending,0,0,0,0,0,0,3,0,0,0
+Commodities,0,5,0,2,0,0,6,0,0,1
+Commodity Prices,0,5,2,0,0,0,3,0,0,1
+Competition,248,69,145,69,10,2,206,17,1,25
+Competitors,0,0,0,0,0,0,2,0,0,0
+Compliance,0,0,0,1,0,0,0,0,0,0
+Consumer Pressure,0,0,0,0,0,0,1,0,0,0
+Consumer Spending,0,0,1,0,0,0,0,0,0,0
+Consumer Trends,0,0,1,0,0,0,2,0,0,0
+Content Spend,0,2,0,1,0,0,0,0,0,0
+Contracts,0,0,0,0,0,0,0,0,0,1
+Control,0,0,0,0,1,0,0,0,0,0
+Corporate Governance,0,0,0,0,0,0,6,0,0,0
+Corporate Lending,0,0,0,0,0,0,2,0,0,0
+Corporate Social Responsibility,1,0,1,0,0,0,1,0,0,0
+Cost Management,180,75,119,66,9,26,344,3,13,43
+Cost of IBL,0,1,0,0,0,0,0,0,0,0
+Credit,1,0,0,0,0,0,0,0,0,2
+Credit Quality,1,3,0,0,0,0,14,0,0,0
+Credit Risk,0,0,0,0,0,0,5,0,0,0
+Cross-border Transactions,0,0,0,0,0,0,1,0,0,0
+Crypto Demand Impact,0,0,0,0,0,0,1,0,0,0
+Crypto Volatility,0,0,0,0,0,0,1,0,0,0
+Cryptocurrency,2,0,0,0,0,0,1,0,0,0
+Cryptocurrency Impact,0,0,0,0,0,0,1,0,0,0
+Culture,0,0,0,0,0,0,2,0,0,0
+Currency,27,1,18,8,0,0,46,0,0,1
+Customer,204,28,63,34,9,8,184,4,0,6
+Customer Relationship,1,0,0,0,0,0,2,0,0,0
+Customer Remediation,1,1,0,0,0,0,0,0,0,0
+Customer Satisfaction,0,0,0,1,0,0,0,0,0,0
+Customer Spending,0,1,0,0,0,0,0,0,0,0
+Cybersecurity,0,2,0,0,0,0,1,0,0,0
+Data Analytics,2,1,0,0,2,0,5,0,0,0
+Data Protection,2,0,2,0,0,0,4,2,0,0
+Debt,19,18,5,18,2,0,22,2,2,38
+Debt Underwriting,0,0,1,0,0,0,6,0,0,0
+Demand,21,8,14,14,4,1,40,0,2,0
+Demographics,0,0,0,0,0,0,1,0,0,0
+Deposit Costs,0,1,0,0,0,0,0,0,0,0
+Deposit Growth,4,0,0,0,0,0,0,0,0,0
+Deposits,3,1,0,0,0,0,2,0,0,0
+Depreciation,1,0,0,0,0,0,0,0,0,0
+Digital Platforms,1,0,0,0,0,0,0,0,0,0
+Digitalization,0,0,0,0,0,0,1,0,0,0
+Discount Rate,0,0,1,1,0,0,1,0,0,0
+Diversification,2,0,0,1,0,0,0,0,0,0
+Diversity,0,0,0,1,0,0,0,0,0,0
+Divestment,0,1,1,2,0,0,7,0,0,0
+Dividend Policy,28,35,13,45,3,1,89,1,4,26
+Dividend Yield,0,0,0,0,0,0,2,0,0,0
+E-commerce,39,17,22,12,2,6,69,0,0,6
+EBIT,0,0,0,0,0,0,1,0,0,0
+EBITDA Multiple,0,1,0,0,0,0,0,0,0,0
+EPS Guidance,0,0,1,0,0,0,0,0,0,0
+Earnings,91,60,66,37,2,0,199,1,5,39
+Earnings Call Focus,0,0,0,0,0,0,1,0,0,0
+Earnings Catalysts,2,2,0,0,0,0,0,0,0,0
+Earnings Forecast,73,37,52,26,3,1,130,2,2,13
+Earnings Momentum,0,0,0,1,0,0,0,0,0,0
+Earnings Risk,0,1,0,0,0,0,3,0,0,0
+Earnings Visibility,0,0,0,0,0,0,3,0,0,0
+Earnings per Share,202,22,191,80,2,6,172,3,3,21
+Economic Conditions,48,15,31,19,5,0,85,3,0,5
+Economic Recovery,0,0,0,0,0,0,2,0,0,0
+Efficacy,21,3,0,0,0,0,6,0,0,1
+Employees,59,9,20,8,3,9,40,0,0,2
+Energy Impact,0,0,0,0,1,0,1,0,0,0
+Energy Sector,0,0,0,0,0,0,1,0,0,1
+Engagement,0,0,0,1,0,0,4,0,0,0
+Engineering Talent,0,0,0,0,0,0,1,0,0,0
+Entrepreneurs,0,0,0,0,0,1,0,0,0,0
+Equity,1,0,0,0,0,0,0,0,0,0
+Equity Underwriting,0,0,1,0,0,0,5,0,0,0
+Execution,1,4,0,2,0,0,9,0,0,4
+Execution Risk,0,2,0,2,0,0,0,0,0,0
+Executive Changes,0,0,1,0,0,0,0,0,0,0
+Executive Compensation,0,0,0,2,0,0,6,0,0,0
+Expense,1,0,0,1,0,0,1,0,0,0
+Exploration,0,2,0,0,0,0,5,0,0,0
+FICC,0,0,1,0,0,0,1,0,0,0
+Fashion Trends,0,2,0,0,0,0,0,0,0,0
+Fee Income,2,0,0,0,0,0,0,0,0,0
+Fees,3,0,0,0,0,0,0,0,0,0
+Fees and Costs,1,0,0,0,0,0,0,0,0,0
+Financial Impact,2,0,2,1,0,0,0,0,0,0
+Financial Performance,126,54,57,56,7,7,243,7,4,36
+Financial Position,2,2,0,0,0,0,0,0,0,0
+Financial Risk,0,2,0,0,0,0,0,0,0,0
+Financial Services,0,0,0,0,0,0,2,0,0,0
+Fintech Partnerships,0,0,0,0,0,0,1,0,0,0
+Flexibility,0,1,0,0,0,0,0,0,0,0
+Fundamentals,0,0,0,0,2,0,1,0,0,0
+GPU Market,0,0,0,0,0,0,1,0,0,0
+GPU Pricing,0,0,0,0,0,0,1,0,0,0
+GPU Supply Outlook,0,0,0,0,0,0,1,0,0,0
+Gaming Demand,0,0,0,0,0,0,1,0,0,0
+General Economic Trends,2,0,1,0,0,0,0,0,0,0
+Geographic Expansion,3,1,1,0,0,0,0,0,0,0
+Geopolitical Risk,10,1,10,0,0,0,1,0,0,2
+Global Presence,21,5,10,10,0,1,29,0,0,0
+Government Policies,0,1,0,0,0,0,0,0,0,0
+Growth,1008,172,457,273,27,16,1040,26,29,77
+Guidance,24,3,6,5,1,0,12,1,0,2
+HELOC Utilization,0,0,0,0,0,0,2,0,0,0
+Health Impact,3,2,0,0,0,0,3,0,0,0
+Holiday Sales,1,0,0,1,0,0,2,0,0,0
+IT Systems,1,0,0,0,0,0,0,0,0,0
+Industrial Recovery,0,2,0,0,0,0,0,0,0,0
+Industry Outlook,33,8,0,6,4,0,47,1,0,0
+Innovation,191,43,36,19,11,2,138,1,1,9
+Innovations,1,0,0,0,0,0,0,0,0,0
+Insurance,0,1,0,0,0,0,0,0,1,0
+Integration,0,0,0,0,0,0,1,0,0,0
+Interest Expense,0,0,1,0,0,0,2,0,0,0
+Inventory Management,32,20,14,5,2,0,40,1,1,6
+Investment Banking,3,0,1,0,0,0,16,0,0,0
+Investments,245,77,127,103,14,2,284,11,10,51
+Investor Concerns,0,0,0,0,0,0,1,0,0,0
+Investor Confidence,1,0,0,0,0,0,0,0,0,1
+KSU Perception,0,0,0,0,1,0,0,0,0,0
+LNG Pricing,0,0,0,0,0,0,0,0,0,1
+Leadership,75,16,26,10,0,17,86,3,1,3
+Leverage,1,2,0,1,0,0,19,0,0,0
+Licensing Revenue,0,0,0,1,0,0,0,0,0,0
+Litigation,1,0,3,0,1,0,4,0,0,0
+Litigation Concerns,0,0,0,0,0,0,2,0,0,0
+Litigation and Regulation,0,0,0,0,0,0,1,0,0,0
+Loan Demand,0,1,0,0,0,0,5,0,0,0
+Loan Loss Reserves,7,2,0,0,0,0,4,0,0,0
+Loan Portfolio,2,1,0,1,0,0,38,0,0,0
+Loan Syndication,0,0,0,0,0,0,2,0,0,0
+Logistics Costs,0,0,0,2,0,0,0,0,0,0
+Long-term Growth,10,13,21,9,0,0,22,2,1,2
+Manufacturing,0,0,0,0,0,0,1,0,0,0
+Margin Compression,0,0,0,0,0,0,1,0,0,0
+Margins,378,149,247,141,6,6,484,7,17,68
+Market Cap,7,1,1,4,0,1,17,0,0,1
+Market Conditions,277,94,108,118,37,4,428,7,1,42
+Market Data,2,0,1,1,0,0,0,0,0,0
+Market Expansion,231,34,56,31,10,10,206,5,4,14
+Market Expectations,2,2,1,0,0,0,7,0,0,0
+Market Performance,8,1,6,0,0,0,8,0,0,1
+Market Recognition,0,0,0,1,0,0,0,0,0,0
+Market Share,418,87,123,69,14,14,398,9,0,42
+Marketing,106,12,46,25,3,8,86,2,0,4
+Marketplace,7,0,3,2,0,0,5,0,0,0
+Mergers and Acquisition,124,16,31,12,0,4,93,2,0,11
+Mergers and Acquisition Advisory,0,0,1,0,0,0,2,0,0,0
+Mortgage Production,0,0,0,0,0,0,1,0,0,0
+Natural Gas,0,0,0,0,0,0,2,0,0,0
+Net Cash,0,0,0,0,0,0,1,0,0,0
+Net Charge-offs,1,0,0,0,0,0,1,0,0,0
+Oil & Gas Industry,0,0,0,0,0,0,1,0,0,1
+Oil Prices,0,3,0,0,0,0,10,0,0,3
+Operating Leverage,1,2,1,0,0,0,29,0,0,0
+Operating Margin Return on Inventory,0,0,0,0,0,0,1,0,0,1
+Operating Metrics,0,0,0,0,1,0,1,0,0,0
+Operating Performance,2,2,0,0,0,0,0,0,0,0
+Operational Issues,0,1,0,1,0,0,4,2,0,0
+Operational Performance,0,1,0,0,0,0,0,0,0,0
+Operations,17,5,6,11,4,0,30,0,3,6
+Organizational Structure,0,0,0,0,0,0,1,0,0,0
+Parcel Carriers Momentum,0,0,0,0,1,0,0,0,0,0
+Partnerships and Collaborations,101,2,12,3,3,0,51,0,0,3
+Pension Obligations,0,0,0,0,0,0,1,0,0,0
+Performance,1,1,0,1,0,1,4,0,0,0
+Pipeline,1,0,0,2,0,0,2,0,0,0
+Price Shock Absorber,0,0,0,1,0,0,0,0,0,0
+Price/Earnings Ratio,30,11,33,29,0,0,25,0,0,4
+Price/Mix Strategy,2,2,0,3,0,0,27,0,0,0
+Pricing Strategy,12,7,4,6,3,0,37,0,1,1
+Process Optimization,0,0,0,0,0,0,1,0,0,0
+Processes,12,16,3,9,7,0,52,2,1,0
+Product Characteristics,41,10,8,4,0,0,24,1,1,1
+Product Performance,35,5,9,4,0,0,28,2,0,1
+Product Strategy,42,7,15,4,1,1,28,1,0,3
+Production,15,7,9,16,0,0,48,0,12,3
+Profitability,35,4,17,8,2,1,28,0,4,1
+Programming Expenses,0,0,0,0,0,0,0,0,0,2
+Provision Expense,2,0,0,0,0,0,0,0,0,0
+Quality,0,0,0,2,1,0,3,0,0,0
+Quality Management,2,0,0,0,1,0,3,0,0,0
+R&D,1,0,0,0,0,0,0,0,0,0
+Rail Pricing,0,0,0,0,1,0,0,0,0,0
+Real Estate,0,0,0,0,0,0,1,0,0,0
+Refranchising,6,0,1,0,0,0,16,0,0,0
+Regulations,117,31,27,16,6,1,138,23,0,4
+Research and Development,202,7,14,14,3,1,98,5,0,4
+Reserve Build,1,0,0,0,0,0,0,0,0,0
+Reserve Release,0,1,0,0,0,0,0,0,0,0
+Restructuring,2,1,0,0,0,0,5,0,0,0
+Retail Initiatives,0,0,0,0,0,0,1,0,0,0
+Retail Landscape,0,1,0,0,0,0,0,0,0,0
+Return On Equity,19,13,3,5,0,0,78,0,0,3
+Return On Investment,1,0,0,0,0,0,1,0,0,0
+Revenue,925,182,489,271,33,32,914,20,15,86
+Risk Management,62,34,50,20,7,0,145,3,3,9
+Risk/Reward,1,3,0,1,0,0,12,0,0,1
+Risks,12,1,2,2,0,0,19,0,0,1
+SG&A Growth,2,0,0,1,0,0,0,0,0,0
+Safety,20,2,0,0,0,0,3,0,1,1
+Safety Profile,0,1,0,0,0,0,2,0,0,0
+Sales & Trading,2,0,2,0,0,0,3,0,0,0
+Sales Channels,2,0,0,0,0,0,0,0,0,0
+Sales Forecast,0,0,0,0,0,0,1,0,0,0
+Sales Performance,31,7,17,9,2,1,25,0,0,0
+Sales Promotion,1,0,0,0,0,0,1,0,0,0
+Sales Risk,0,0,0,1,0,0,1,0,0,0
+Scalability,0,0,0,0,0,0,1,0,0,0
+Seasonality,11,0,17,1,1,0,7,0,0,1
+Securities,2,0,0,0,0,0,0,0,0,0
+Securities Losses,1,0,0,0,0,0,0,0,0,0
+Security,1,0,0,0,0,0,0,0,0,0
+Security Breach,0,0,0,0,0,0,1,0,0,0
+Sentiment,2,0,2,1,0,0,7,0,0,1
+Shareholder Returns,1,0,0,0,0,0,2,0,0,0
+Shares Outstanding,0,2,0,1,0,0,11,0,0,1
+Shares Repurchase,64,22,43,54,0,0,117,3,0,17
+Stock Dilution,0,0,0,1,0,0,0,0,0,3
+Stock Ownership,1,0,9,0,0,2,2,0,0,0
+Stock Performance,30,9,8,8,5,3,27,3,0,3
+Stock Price,12,6,9,5,0,0,20,2,2,3
+Stock Recommendation,23,6,4,6,1,0,10,2,0,9
+Stock Specific Level,0,0,0,0,1,0,0,0,0,0
+Stock-Based Compensation,6,0,1,0,0,0,0,0,0,1
+Store Expansion,0,0,0,0,0,0,2,0,0,0
+Strength,0,0,0,0,0,0,2,0,0,0
+Subscriber Growth,0,2,0,0,0,0,0,0,0,1
+Subscription Growth,0,0,0,0,0,0,0,0,0,1
+Succession Planning,0,0,0,0,0,0,1,0,0,0
+Supplier Relations,0,0,0,0,0,0,1,0,0,0
+Supply Chain,55,13,39,21,2,0,74,2,1,5
+Sustainability,1,2,0,10,0,0,27,0,1,3
+Synergies,6,1,1,0,0,1,7,0,0,5
+Tax Issues,0,0,0,0,0,0,1,0,0,0
+Tax Settlement,0,0,0,0,1,0,0,0,0,0
+Taxes,27,17,11,14,5,1,50,1,0,4
+Tech Spending,0,2,0,0,0,0,0,0,0,0
+Technology Trends,219,76,64,15,22,8,213,2,2,16
+Trading,3,0,0,0,0,0,4,0,0,0
+Traffic,1,0,0,0,0,0,1,0,0,0
+Training,0,0,0,1,0,0,0,0,0,0
+Transaction Closure,0,1,0,0,0,0,0,0,0,0
+Transaction Fees,1,0,0,0,0,0,0,0,0,0
+Transition,1,0,0,0,0,0,1,0,0,0
+Transparency,0,0,0,0,1,0,1,0,0,0
+Travel Industry,0,0,0,0,0,0,1,0,0,0
+Truckload Carriers Rates,0,0,0,0,1,0,0,0,0,0
+Truckload Rates,0,0,0,0,1,0,0,0,0,0
+Trust,0,0,0,0,0,0,0,2,0,0
+UNP Stock Consensus,0,0,0,0,1,0,0,0,0,0
+UPS Attention,0,0,0,0,1,0,0,0,0,0
+Underwriting,0,0,0,0,0,0,1,0,0,0
+Vaccine Development,1,1,0,0,0,0,0,0,0,0
+Valuation,104,43,71,39,7,1,126,1,2,20
+Value Creation,2,0,0,1,0,0,1,0,0,0
+Value Investing,1,0,0,0,1,0,2,0,0,1
+Value Unlocking,1,1,0,0,0,0,1,0,0,0
+Visibility,0,2,0,2,0,0,2,0,0,0
+Volume,0,0,0,0,0,0,1,0,0,0
+Volume Growth,0,0,1,0,0,0,1,0,0,0
+Volume Leverage,0,0,0,0,0,0,2,0,0,0
+Workflow Integration,0,0,0,0,0,0,1,0,0,0
+XPO Interest,0,0,0,0,1,0,0,0,0,0
+Yield,0,2,0,0,0,0,1,0,0,0
