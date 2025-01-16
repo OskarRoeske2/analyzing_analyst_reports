@@ -3,6 +3,7 @@ Goal of this project:
 This repository aims to develop a pipeline to analyze arguments in financial analyst reports. This involves the extraction of text from PDFs, the extraction of arguments and their sentiment as well as the analysis of arguments across industries and ratings as well as the difference between successful and unsuccessful reports.
 
 Folder Structure of the project:
+
 company_info.csv: contains the company name, the ticker symbol at the stock market and the industry and is important to be later linked to the report.
 
 get_stock_prices.ipynb: creates performance_data.csv by using the yfinance library in python to retrieve the ‘Close’ prices for the selected timeframe (2014-2022).
